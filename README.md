@@ -46,15 +46,15 @@ The following libraries were used in creating the app:
 
 **_Tab 1 - Election Overview_**
 
-![tab1](/Users/conorpower/Documents/data_projects/us_election_project/tab1.png)
+![tab1](https://github.com/C-Power1/us_election_shiny_app/blob/master/tab1.png?raw=true)
 
 **_Tab 2 - State Demographic Factors Overview_**
 
-![tab2](/Users/conorpower/Documents/data_projects/us_election_project/tab2.png)
+![tab2](https://github.com/C-Power1/us_election_shiny_app/blob/master/tab2.png?raw=true)
 
 _**Tab 3 - Influence of COVID-19**_
 
-![tab3](/Users/conorpower/Documents/data_projects/us_election_project/tab3.png)
+![tab3](https://github.com/C-Power1/us_election_shiny_app/blob/master/tab3.png?raw=true)
 
 
 ### Key Findings 
