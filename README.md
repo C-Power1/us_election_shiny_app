@@ -50,11 +50,11 @@ The following libraries were used in creating the app:
 
 **_Tab 2 - State Demographic Factors Overview_**
 
-![tab1](/Users/conorpower/Documents/data_projects/us_election_project/tab2.png)
+![tab2](/Users/conorpower/Documents/data_projects/us_election_project/tab2.png)
 
 _**Tab 3 - Influence of COVID-19**_
 
-![tab1](/Users/conorpower/Documents/data_projects/us_election_project/tab3.png)
+![tab3](/Users/conorpower/Documents/data_projects/us_election_project/tab3.png)
 
 
 ### Key Findings 
