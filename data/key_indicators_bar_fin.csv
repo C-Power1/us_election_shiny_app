@@ -1,0 +1,562 @@
+state,indicator,stat,us_average,party2020,college_votes_available
+Alabama,Per Capita Income 2020 ($),48641,59410.22,Republican,9
+Alaska,Per Capita Income 2020 ($),67507,59410.22,Republican,3
+Arizona,Per Capita Income 2020 ($),50403,59410.22,Democrat,11
+Arkansas,Per Capita Income 2020 ($),48691,59410.22,Republican,6
+California,Per Capita Income 2020 ($),72764,59410.22,Democrat,55
+Colorado,Per Capita Income 2020 ($),65816,59410.22,Democrat,9
+Connecticut,Per Capita Income 2020 ($),81606,59410.22,Democrat,7
+Delaware,Per Capita Income 2020 ($),58989,59410.22,Democrat,3
+District of Columbia,Per Capita Income 2020 ($),88033,59410.22,Democrat,3
+Florida,Per Capita Income 2020 ($),56412,59410.22,Republican,29
+Georgia,Per Capita Income 2020 ($),52184,59410.22,Democrat,16
+Hawaii,Per Capita Income 2020 ($),65961,59410.22,Democrat,4
+Idaho,Per Capita Income 2020 ($),50169,59410.22,Republican,4
+Illinois,Per Capita Income 2020 ($),66224,59410.22,Democrat,20
+Indiana,Per Capita Income 2020 ($),52560,59410.22,Republican,11
+Iowa,Per Capita Income 2020 ($),58612,59410.22,Republican,6
+Kansas,Per Capita Income 2020 ($),57636,59410.22,Republican,6
+Kentucky,Per Capita Income 2020 ($),48585,59410.22,Republican,8
+Louisiana,Per Capita Income 2020 ($),51789,59410.22,Republican,8
+Maine,Per Capita Income 2020 ($),56268,59410.22,Democrat,4
+Maryland,Per Capita Income 2020 ($),69341,59410.22,Democrat,10
+Massachusetts,Per Capita Income 2020 ($),86779,59410.22,Democrat,11
+Michigan,Per Capita Income 2020 ($),55484,59410.22,Democrat,16
+Minnesota,Per Capita Income 2020 ($),64364,59410.22,Democrat,10
+Mississippi,Per Capita Income 2020 ($),43352,59410.22,Republican,6
+Missouri,Per Capita Income 2020 ($),53036,59410.22,Republican,10
+Montana,Per Capita Income 2020 ($),56030,59410.22,Republican,3
+Nebraska,Per Capita Income 2020 ($),55810,59410.22,Republican,5
+Nevada,Per Capita Income 2020 ($),57987,59410.22,Democrat,6
+New Hampshire,Per Capita Income 2020 ($),67815,59410.22,Democrat,4
+New Jersey,Per Capita Income 2020 ($),81429,59410.22,Democrat,14
+New Mexico,Per Capita Income 2020 ($),48194,59410.22,Democrat,5
+New York,Per Capita Income 2020 ($),77014,59410.22,Democrat,29
+North Carolina,Per Capita Income 2020 ($),48153,59410.22,Republican,15
+North Dakota,Per Capita Income 2020 ($),57690,59410.22,Republican,3
+Ohio,Per Capita Income 2020 ($),55340,59410.22,Republican,18
+Oklahoma,Per Capita Income 2020 ($),52469,59410.22,Republican,7
+Oregon,Per Capita Income 2020 ($),59512,59410.22,Democrat,7
+Pennsylvania,Per Capita Income 2020 ($),64816,59410.22,Democrat,20
+Rhode Island,Per Capita Income 2020 ($),64878,59410.22,Democrat,4
+South Carolina,Per Capita Income 2020 ($),49036,59410.22,Republican,9
+South Dakota,Per Capita Income 2020 ($),58778,59410.22,Republican,3
+Tennessee,Per Capita Income 2020 ($),51232,59410.22,Republican,11
+Texas,Per Capita Income 2020 ($),57231,59410.22,Republican,38
+Utah,Per Capita Income 2020 ($),53218,59410.22,Republican,6
+Vermont,Per Capita Income 2020 ($),63022,59410.22,Democrat,3
+Virginia,Per Capita Income 2020 ($),63674,59410.22,Democrat,13
+Washington,Per Capita Income 2020 ($),70958,59410.22,Democrat,12
+West Virginia,Per Capita Income 2020 ($),49021,59410.22,Republican,5
+Wisconsin,Per Capita Income 2020 ($),57492,59410.22,Democrat,10
+Wyoming,Per Capita Income 2020 ($),66539,59410.22,Republican,3
+Alabama,Income Change Over Year (%),10.5,10.01,Republican,9
+Alaska,Income Change Over Year (%),7.7,10.01,Republican,3
+Arizona,Income Change Over Year (%),9.8,10.01,Democrat,11
+Arkansas,Income Change Over Year (%),9.4,10.01,Republican,6
+California,Income Change Over Year (%),9.5,10.01,Democrat,55
+Colorado,Income Change Over Year (%),8.1,10.01,Democrat,9
+Connecticut,Income Change Over Year (%),5.8,10.01,Democrat,7
+Delaware,Income Change Over Year (%),8.5,10.01,Democrat,3
+District of Columbia,Income Change Over Year (%),5.8,10.01,Democrat,3
+Florida,Income Change Over Year (%),7.8,10.01,Republican,29
+Georgia,Income Change Over Year (%),8.4,10.01,Democrat,16
+Hawaii,Income Change Over Year (%),16.2,10.01,Democrat,4
+Idaho,Income Change Over Year (%),9.5,10.01,Republican,4
+Illinois,Income Change Over Year (%),13.3,10.01,Democrat,20
+Indiana,Income Change Over Year (%),8.5,10.01,Republican,11
+Iowa,Income Change Over Year (%),14.1,10.01,Republican,6
+Kansas,Income Change Over Year (%),8.7,10.01,Republican,6
+Kentucky,Income Change Over Year (%),11.5,10.01,Republican,8
+Louisiana,Income Change Over Year (%),9.4,10.01,Republican,8
+Maine,Income Change Over Year (%),11.6,10.01,Democrat,4
+Maryland,Income Change Over Year (%),7.5,10.01,Democrat,10
+Massachusetts,Income Change Over Year (%),17.1,10.01,Democrat,11
+Michigan,Income Change Over Year (%),13.1,10.01,Democrat,16
+Minnesota,Income Change Over Year (%),10,10.01,Democrat,10
+Mississippi,Income Change Over Year (%),12.2,10.01,Republican,6
+Missouri,Income Change Over Year (%),9.6,10.01,Republican,10
+Montana,Income Change Over Year (%),13.5,10.01,Republican,3
+Nebraska,Income Change Over Year (%),3.5,10.01,Republican,5
+Nevada,Income Change Over Year (%),13.6,10.01,Democrat,6
+New Hampshire,Income Change Over Year (%),7,10.01,Democrat,4
+New Jersey,Income Change Over Year (%),15.9,10.01,Democrat,14
+New Mexico,Income Change Over Year (%),11.8,10.01,Democrat,5
+New York,Income Change Over Year (%),7.6,10.01,Democrat,29
+North Carolina,Income Change Over Year (%),1,10.01,Republican,15
+North Dakota,Income Change Over Year (%),2.2,10.01,Republican,3
+Ohio,Income Change Over Year (%),10.7,10.01,Republican,18
+Oklahoma,Income Change Over Year (%),11.2,10.01,Republican,7
+Oregon,Income Change Over Year (%),12.4,10.01,Democrat,7
+Pennsylvania,Income Change Over Year (%),12,10.01,Democrat,20
+Rhode Island,Income Change Over Year (%),15.2,10.01,Democrat,4
+South Carolina,Income Change Over Year (%),8.4,10.01,Republican,9
+South Dakota,Income Change Over Year (%),10.4,10.01,Republican,3
+Tennessee,Income Change Over Year (%),5.4,10.01,Republican,11
+Texas,Income Change Over Year (%),8.8,10.01,Republican,38
+Utah,Income Change Over Year (%),9.4,10.01,Republican,6
+Vermont,Income Change Over Year (%),14.4,10.01,Democrat,3
+Virginia,Income Change Over Year (%),7.1,10.01,Democrat,13
+Washington,Income Change Over Year (%),9.9,10.01,Democrat,12
+West Virginia,Income Change Over Year (%),15.8,10.01,Republican,5
+Wisconsin,Income Change Over Year (%),8.2,10.01,Democrat,10
+Wyoming,Income Change Over Year (%),7.5,10.01,Republican,3
+Alabama,Have Health Insurance (%),90.28,91.51,Republican,9
+Alaska,Have Health Insurance (%),87.82,91.51,Republican,3
+Arizona,Have Health Insurance (%),88.71,91.51,Democrat,11
+Arkansas,Have Health Insurance (%),90.85,91.51,Republican,6
+California,Have Health Insurance (%),92.3,91.51,Democrat,55
+Colorado,Have Health Insurance (%),92,91.51,Democrat,9
+Connecticut,Have Health Insurance (%),94.11,91.51,Democrat,7
+Delaware,Have Health Insurance (%),93.42,91.51,Democrat,3
+District of Columbia,Have Health Insurance (%),96.41,91.51,Democrat,3
+Florida,Have Health Insurance (%),86.84,91.51,Republican,29
+Georgia,Have Health Insurance (%),86.58,91.51,Democrat,16
+Hawaii,Have Health Insurance (%),95.88,91.51,Democrat,4
+Idaho,Have Health Insurance (%),89.18,91.51,Republican,4
+Illinois,Have Health Insurance (%),92.61,91.51,Democrat,20
+Indiana,Have Health Insurance (%),91.28,91.51,Republican,11
+Iowa,Have Health Insurance (%),94.99,91.51,Republican,6
+Kansas,Have Health Insurance (%),90.81,91.51,Republican,6
+Kentucky,Have Health Insurance (%),93.55,91.51,Republican,8
+Louisiana,Have Health Insurance (%),91.1,91.51,Republican,8
+Maine,Have Health Insurance (%),91.94,91.51,Democrat,4
+Maryland,Have Health Insurance (%),94,91.51,Democrat,10
+Massachusetts,Have Health Insurance (%),97.01,91.51,Democrat,11
+Michigan,Have Health Insurance (%),94.22,91.51,Democrat,16
+Minnesota,Have Health Insurance (%),95.11,91.51,Democrat,10
+Mississippi,Have Health Insurance (%),87.02,91.51,Republican,6
+Missouri,Have Health Insurance (%),89.97,91.51,Republican,10
+Montana,Have Health Insurance (%),91.75,91.51,Republican,3
+Nebraska,Have Health Insurance (%),91.7,91.51,Republican,5
+Nevada,Have Health Insurance (%),88.57,91.51,Democrat,6
+New Hampshire,Have Health Insurance (%),93.75,91.51,Democrat,4
+New Jersey,Have Health Insurance (%),92.11,91.51,Democrat,14
+New Mexico,Have Health Insurance (%),90.04,91.51,Democrat,5
+New York,Have Health Insurance (%),94.76,91.51,Democrat,29
+North Carolina,Have Health Insurance (%),88.75,91.51,Republican,15
+North Dakota,Have Health Insurance (%),93.15,91.51,Republican,3
+Ohio,Have Health Insurance (%),93.42,91.51,Republican,18
+Oklahoma,Have Health Insurance (%),85.72,91.51,Republican,7
+Oregon,Have Health Insurance (%),92.84,91.51,Democrat,7
+Pennsylvania,Have Health Insurance (%),94.23,91.51,Democrat,20
+Rhode Island,Have Health Insurance (%),95.88,91.51,Democrat,4
+South Carolina,Have Health Insurance (%),89.15,91.51,Republican,9
+South Dakota,Have Health Insurance (%),89.85,91.51,Republican,3
+Tennessee,Have Health Insurance (%),89.85,91.51,Republican,11
+Texas,Have Health Insurance (%),81.64,91.51,Republican,38
+Utah,Have Health Insurance (%),90.34,91.51,Republican,6
+Vermont,Have Health Insurance (%),95.47,91.51,Democrat,3
+Virginia,Have Health Insurance (%),92.08,91.51,Democrat,13
+Washington,Have Health Insurance (%),93.38,91.51,Democrat,12
+West Virginia,Have Health Insurance (%),93.3,91.51,Republican,5
+Wisconsin,Have Health Insurance (%),94.28,91.51,Democrat,10
+Wyoming,Have Health Insurance (%),87.7,91.51,Republican,3
+Alabama,Unemployment Rate Sept 2020 (%),6.6,7.18,Republican,9
+Alaska,Unemployment Rate Sept 2020 (%),7.2,7.18,Republican,3
+Arizona,Unemployment Rate Sept 2020 (%),6.7,7.18,Democrat,11
+Arkansas,Unemployment Rate Sept 2020 (%),7.3,7.18,Republican,6
+California,Unemployment Rate Sept 2020 (%),11,7.18,Democrat,55
+Colorado,Unemployment Rate Sept 2020 (%),6.4,7.18,Democrat,9
+Connecticut,Unemployment Rate Sept 2020 (%),7.8,7.18,Democrat,7
+Delaware,Unemployment Rate Sept 2020 (%),8.2,7.18,Democrat,3
+District of Columbia,Unemployment Rate Sept 2020 (%),8.7,7.18,Democrat,3
+Florida,Unemployment Rate Sept 2020 (%),7.6,7.18,Republican,29
+Georgia,Unemployment Rate Sept 2020 (%),6.4,7.18,Democrat,16
+Hawaii,Unemployment Rate Sept 2020 (%),15.1,7.18,Democrat,4
+Idaho,Unemployment Rate Sept 2020 (%),6.1,7.18,Republican,4
+Illinois,Unemployment Rate Sept 2020 (%),10.2,7.18,Democrat,20
+Indiana,Unemployment Rate Sept 2020 (%),6.2,7.18,Republican,11
+Iowa,Unemployment Rate Sept 2020 (%),4.7,7.18,Republican,6
+Kansas,Unemployment Rate Sept 2020 (%),5.9,7.18,Republican,6
+Kentucky,Unemployment Rate Sept 2020 (%),5.6,7.18,Republican,8
+Louisiana,Unemployment Rate Sept 2020 (%),8.1,7.18,Republican,8
+Maine,Unemployment Rate Sept 2020 (%),6.1,7.18,Democrat,4
+Maryland,Unemployment Rate Sept 2020 (%),7.2,7.18,Democrat,10
+Massachusetts,Unemployment Rate Sept 2020 (%),9.6,7.18,Democrat,11
+Michigan,Unemployment Rate Sept 2020 (%),8.5,7.18,Democrat,16
+Minnesota,Unemployment Rate Sept 2020 (%),6,7.18,Democrat,10
+Mississippi,Unemployment Rate Sept 2020 (%),7.1,7.18,Republican,6
+Missouri,Unemployment Rate Sept 2020 (%),4.9,7.18,Republican,10
+Montana,Unemployment Rate Sept 2020 (%),5.3,7.18,Republican,3
+Nebraska,Unemployment Rate Sept 2020 (%),3.5,7.18,Republican,5
+Nevada,Unemployment Rate Sept 2020 (%),12.6,7.18,Democrat,6
+New Hampshire,Unemployment Rate Sept 2020 (%),6,7.18,Democrat,4
+New Jersey,Unemployment Rate Sept 2020 (%),6.7,7.18,Democrat,14
+New Mexico,Unemployment Rate Sept 2020 (%),9.4,7.18,Democrat,5
+New York,Unemployment Rate Sept 2020 (%),9.7,7.18,Democrat,29
+North Carolina,Unemployment Rate Sept 2020 (%),7.3,7.18,Republican,15
+North Dakota,Unemployment Rate Sept 2020 (%),4.4,7.18,Republican,3
+Ohio,Unemployment Rate Sept 2020 (%),8.4,7.18,Republican,18
+Oklahoma,Unemployment Rate Sept 2020 (%),5.3,7.18,Republican,7
+Oregon,Unemployment Rate Sept 2020 (%),8,7.18,Democrat,7
+Pennsylvania,Unemployment Rate Sept 2020 (%),8.1,7.18,Democrat,20
+Rhode Island,Unemployment Rate Sept 2020 (%),10.5,7.18,Democrat,4
+South Carolina,Unemployment Rate Sept 2020 (%),5.1,7.18,Republican,9
+South Dakota,Unemployment Rate Sept 2020 (%),4.1,7.18,Republican,3
+Tennessee,Unemployment Rate Sept 2020 (%),6.3,7.18,Republican,11
+Texas,Unemployment Rate Sept 2020 (%),8.3,7.18,Republican,38
+Utah,Unemployment Rate Sept 2020 (%),5,7.18,Republican,6
+Vermont,Unemployment Rate Sept 2020 (%),4.2,7.18,Democrat,3
+Virginia,Unemployment Rate Sept 2020 (%),6.2,7.18,Democrat,13
+Washington,Unemployment Rate Sept 2020 (%),7.8,7.18,Democrat,12
+West Virginia,Unemployment Rate Sept 2020 (%),8.6,7.18,Republican,5
+Wisconsin,Unemployment Rate Sept 2020 (%),5.4,7.18,Democrat,10
+Wyoming,Unemployment Rate Sept 2020 (%),6.1,7.18,Republican,3
+Alabama,Proportion of Population Aged 65+ (%),0.18,0.17,Republican,9
+Alaska,Proportion of Population Aged 65+ (%),0.13,0.17,Republican,3
+Arizona,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,11
+Arkansas,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,6
+California,Proportion of Population Aged 65+ (%),0.15,0.17,Democrat,55
+Colorado,Proportion of Population Aged 65+ (%),0.15,0.17,Democrat,9
+Connecticut,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,7
+Delaware,Proportion of Population Aged 65+ (%),0.2,0.17,Democrat,3
+District of Columbia,Proportion of Population Aged 65+ (%),0.13,0.17,Democrat,3
+Florida,Proportion of Population Aged 65+ (%),0.21,0.17,Republican,29
+Georgia,Proportion of Population Aged 65+ (%),0.14,0.17,Democrat,16
+Hawaii,Proportion of Population Aged 65+ (%),0.2,0.17,Democrat,4
+Idaho,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,4
+Illinois,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,20
+Indiana,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,11
+Iowa,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,6
+Kansas,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,6
+Kentucky,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,8
+Louisiana,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,8
+Maine,Proportion of Population Aged 65+ (%),0.21,0.17,Democrat,4
+Maryland,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,10
+Massachusetts,Proportion of Population Aged 65+ (%),0.17,0.17,Democrat,11
+Michigan,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,16
+Minnesota,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,10
+Mississippi,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,6
+Missouri,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,10
+Montana,Proportion of Population Aged 65+ (%),0.2,0.17,Republican,3
+Nebraska,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,5
+Nevada,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,6
+New Hampshire,Proportion of Population Aged 65+ (%),0.19,0.17,Democrat,4
+New Jersey,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,14
+New Mexico,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,5
+New York,Proportion of Population Aged 65+ (%),0.17,0.17,Democrat,29
+North Carolina,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,15
+North Dakota,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,3
+Ohio,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,18
+Oklahoma,Proportion of Population Aged 65+ (%),0.16,0.17,Republican,7
+Oregon,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,7
+Pennsylvania,Proportion of Population Aged 65+ (%),0.19,0.17,Democrat,20
+Rhode Island,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,4
+South Carolina,Proportion of Population Aged 65+ (%),0.18,0.17,Republican,9
+South Dakota,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,3
+Tennessee,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,11
+Texas,Proportion of Population Aged 65+ (%),0.13,0.17,Republican,38
+Utah,Proportion of Population Aged 65+ (%),0.12,0.17,Republican,6
+Vermont,Proportion of Population Aged 65+ (%),0.2,0.17,Democrat,3
+Virginia,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,13
+Washington,Proportion of Population Aged 65+ (%),0.16,0.17,Democrat,12
+West Virginia,Proportion of Population Aged 65+ (%),0.2,0.17,Republican,5
+Wisconsin,Proportion of Population Aged 65+ (%),0.18,0.17,Democrat,10
+Wyoming,Proportion of Population Aged 65+ (%),0.17,0.17,Republican,3
+Alabama,Proportion of Population with High School Diploma or Higher (%),85.8,89.2,Republican,9
+Alaska,Proportion of Population with High School Diploma or Higher (%),92.7,89.2,Republican,3
+Arizona,Proportion of Population with High School Diploma or Higher (%),86.8,89.2,Democrat,11
+Arkansas,Proportion of Population with High School Diploma or Higher (%),86.2,89.2,Republican,6
+California,Proportion of Population with High School Diploma or Higher (%),82.9,89.2,Democrat,55
+Colorado,Proportion of Population with High School Diploma or Higher (%),91.4,89.2,Democrat,9
+Connecticut,Proportion of Population with High School Diploma or Higher (%),90.5,89.2,Democrat,7
+Delaware,Proportion of Population with High School Diploma or Higher (%),89.8,89.2,Democrat,3
+District of Columbia,Proportion of Population with High School Diploma or Higher (%),89,89.2,Democrat,3
+Florida,Proportion of Population with High School Diploma or Higher (%),88,89.2,Republican,29
+Georgia,Proportion of Population with High School Diploma or Higher (%),86.7,89.2,Democrat,16
+Hawaii,Proportion of Population with High School Diploma or Higher (%),91.8,89.2,Democrat,4
+Idaho,Proportion of Population with High School Diploma or Higher (%),90.6,89.2,Republican,4
+Illinois,Proportion of Population with High School Diploma or Higher (%),88.9,89.2,Democrat,20
+Indiana,Proportion of Population with High School Diploma or Higher (%),88.6,89.2,Republican,11
+Iowa,Proportion of Population with High School Diploma or Higher (%),92,89.2,Republican,6
+Kansas,Proportion of Population with High School Diploma or Higher (%),90.7,89.2,Republican,6
+Kentucky,Proportion of Population with High School Diploma or Higher (%),85.7,89.2,Republican,8
+Louisiana,Proportion of Population with High School Diploma or Higher (%),84.8,89.2,Republican,8
+Maine,Proportion of Population with High School Diploma or Higher (%),92.3,89.2,Democrat,4
+Maryland,Proportion of Population with High School Diploma or Higher (%),90,89.2,Democrat,10
+Massachusetts,Proportion of Population with High School Diploma or Higher (%),90.4,89.2,Democrat,11
+Michigan,Proportion of Population with High School Diploma or Higher (%),90.5,89.2,Democrat,16
+Minnesota,Proportion of Population with High School Diploma or Higher (%),93,89.2,Democrat,10
+Mississippi,Proportion of Population with High School Diploma or Higher (%),83.9,89.2,Republican,6
+Missouri,Proportion of Population with High School Diploma or Higher (%),89.6,89.2,Republican,10
+Montana,Proportion of Population with High School Diploma or Higher (%),93.2,89.2,Republican,3
+Nebraska,Proportion of Population with High School Diploma or Higher (%),91.1,89.2,Republican,5
+Nevada,Proportion of Population with High School Diploma or Higher (%),86.3,89.2,Democrat,6
+New Hampshire,Proportion of Population with High School Diploma or Higher (%),92.9,89.2,Democrat,4
+New Jersey,Proportion of Population with High School Diploma or Higher (%),89.5,89.2,Democrat,14
+New Mexico,Proportion of Population with High School Diploma or Higher (%),85.3,89.2,Democrat,5
+New York,Proportion of Population with High School Diploma or Higher (%),86.5,89.2,Democrat,29
+North Carolina,Proportion of Population with High School Diploma or Higher (%),87.4,89.2,Republican,15
+North Dakota,Proportion of Population with High School Diploma or Higher (%),92.5,89.2,Republican,3
+Ohio,Proportion of Population with High School Diploma or Higher (%),90.1,89.2,Republican,18
+Oklahoma,Proportion of Population with High School Diploma or Higher (%),87.8,89.2,Republican,7
+Oregon,Proportion of Population with High School Diploma or Higher (%),90.4,89.2,Democrat,7
+Pennsylvania,Proportion of Population with High School Diploma or Higher (%),90.2,89.2,Democrat,20
+Rhode Island,Proportion of Population with High School Diploma or Higher (%),88,89.2,Democrat,4
+South Carolina,Proportion of Population with High School Diploma or Higher (%),87.1,89.2,Republican,9
+South Dakota,Proportion of Population with High School Diploma or Higher (%),91.7,89.2,Republican,3
+Tennessee,Proportion of Population with High School Diploma or Higher (%),87,89.2,Republican,11
+Texas,Proportion of Population with High School Diploma or Higher (%),83.2,89.2,Republican,38
+Utah,Proportion of Population with High School Diploma or Higher (%),92,89.2,Republican,6
+Vermont,Proportion of Population with High School Diploma or Higher (%),92.6,89.2,Democrat,3
+Virginia,Proportion of Population with High School Diploma or Higher (%),89.3,89.2,Democrat,13
+Washington,Proportion of Population with High School Diploma or Higher (%),91.1,89.2,Democrat,12
+West Virginia,Proportion of Population with High School Diploma or Higher (%),86.5,89.2,Republican,5
+Wisconsin,Proportion of Population with High School Diploma or Higher (%),91.9,89.2,Democrat,10
+Wyoming,Proportion of Population with High School Diploma or Higher (%),92.9,89.2,Republican,3
+Alabama,Proportion of Population with Bachelors or Higher (%),24.9,30.65,Republican,9
+Alaska,Proportion of Population with Bachelors or Higher (%),29.2,30.65,Republican,3
+Arizona,Proportion of Population with Bachelors or Higher (%),28.9,30.65,Democrat,11
+Arkansas,Proportion of Population with Bachelors or Higher (%),22.6,30.65,Republican,6
+California,Proportion of Population with Bachelors or Higher (%),33.3,30.65,Democrat,55
+Colorado,Proportion of Population with Bachelors or Higher (%),40.1,30.65,Democrat,9
+Connecticut,Proportion of Population with Bachelors or Higher (%),38.9,30.65,Democrat,7
+Delaware,Proportion of Population with Bachelors or Higher (%),31.4,30.65,Democrat,3
+District of Columbia,Proportion of Population with Bachelors or Higher (%),30,30.65,Democrat,3
+Florida,Proportion of Population with Bachelors or Higher (%),29.2,30.65,Republican,29
+Georgia,Proportion of Population with Bachelors or Higher (%),30.7,30.65,Democrat,16
+Hawaii,Proportion of Population with Bachelors or Higher (%),32.5,30.65,Democrat,4
+Idaho,Proportion of Population with Bachelors or Higher (%),26.9,30.65,Republican,4
+Illinois,Proportion of Population with Bachelors or Higher (%),34.1,30.65,Democrat,20
+Indiana,Proportion of Population with Bachelors or Higher (%),25.9,30.65,Republican,11
+Iowa,Proportion of Population with Bachelors or Higher (%),28.2,30.65,Republican,6
+Kansas,Proportion of Population with Bachelors or Higher (%),32.9,30.65,Republican,6
+Kentucky,Proportion of Population with Bachelors or Higher (%),23.6,30.65,Republican,8
+Louisiana,Proportion of Population with Bachelors or Higher (%),23.7,30.65,Republican,8
+Maine,Proportion of Population with Bachelors or Higher (%),30.9,30.65,Democrat,4
+Maryland,Proportion of Population with Bachelors or Higher (%),39.6,30.65,Democrat,10
+Massachusetts,Proportion of Population with Bachelors or Higher (%),42.9,30.65,Democrat,11
+Michigan,Proportion of Population with Bachelors or Higher (%),28.6,30.65,Democrat,16
+Minnesota,Proportion of Population with Bachelors or Higher (%),35.4,30.65,Democrat,10
+Mississippi,Proportion of Population with Bachelors or Higher (%),21.8,30.65,Republican,6
+Missouri,Proportion of Population with Bachelors or Higher (%),28.6,30.65,Republican,10
+Montana,Proportion of Population with Bachelors or Higher (%),31.2,30.65,Republican,3
+Nebraska,Proportion of Population with Bachelors or Higher (%),31.3,30.65,Republican,5
+Nevada,Proportion of Population with Bachelors or Higher (%),24.2,30.65,Democrat,6
+New Hampshire,Proportion of Population with Bachelors or Higher (%),36.5,30.65,Democrat,4
+New Jersey,Proportion of Population with Bachelors or Higher (%),38.9,30.65,Democrat,14
+New Mexico,Proportion of Population with Bachelors or Higher (%),27.1,30.65,Democrat,5
+New York,Proportion of Population with Bachelors or Higher (%),35.9,30.65,Democrat,29
+North Carolina,Proportion of Population with Bachelors or Higher (%),30.5,30.65,Republican,15
+North Dakota,Proportion of Population with Bachelors or Higher (%),29.5,30.65,Republican,3
+Ohio,Proportion of Population with Bachelors or Higher (%),27.8,30.65,Republican,18
+Oklahoma,Proportion of Population with Bachelors or Higher (%),25.2,30.65,Republican,7
+Oregon,Proportion of Population with Bachelors or Higher (%),32.9,30.65,Democrat,7
+Pennsylvania,Proportion of Population with Bachelors or Higher (%),30.8,30.65,Democrat,20
+Rhode Island,Proportion of Population with Bachelors or Higher (%),33.3,30.65,Democrat,4
+South Carolina,Proportion of Population with Bachelors or Higher (%),27.4,30.65,Republican,9
+South Dakota,Proportion of Population with Bachelors or Higher (%),28.5,30.65,Republican,3
+Tennessee,Proportion of Population with Bachelors or Higher (%),26.6,30.65,Republican,11
+Texas,Proportion of Population with Bachelors or Higher (%),29.3,30.65,Republican,38
+Utah,Proportion of Population with Bachelors or Higher (%),33.3,30.65,Republican,6
+Vermont,Proportion of Population with Bachelors or Higher (%),37.3,30.65,Democrat,3
+Virginia,Proportion of Population with Bachelors or Higher (%),38.2,30.65,Democrat,13
+Washington,Proportion of Population with Bachelors or Higher (%),35.3,30.65,Democrat,12
+West Virginia,Proportion of Population with Bachelors or Higher (%),20.3,30.65,Republican,5
+Wisconsin,Proportion of Population with Bachelors or Higher (%),29.5,30.65,Democrat,10
+Wyoming,Proportion of Population with Bachelors or Higher (%),26.9,30.65,Republican,3
+Alabama,Net International Migration (%),0.57,1.4,Republican,9
+Alaska,Net International Migration (%),0.9,1.4,Republican,3
+Arizona,Net International Migration (%),1.08,1.4,Democrat,11
+Arkansas,Net International Migration (%),0.09,1.4,Republican,6
+California,Net International Migration (%),1.87,1.4,Democrat,55
+Colorado,Net International Migration (%),1.84,1.4,Democrat,9
+Connecticut,Net International Migration (%),3.45,1.4,Democrat,7
+Delaware,Net International Migration (%),0.08,1.4,Democrat,3
+District of Columbia,Net International Migration (%),3.7,1.4,Democrat,3
+Florida,Net International Migration (%),4.15,1.4,Republican,29
+Georgia,Net International Migration (%),1.42,1.4,Democrat,16
+Hawaii,Net International Migration (%),3.54,1.4,Democrat,4
+Idaho,Net International Migration (%),0.09,1.4,Republican,4
+Illinois,Net International Migration (%),1.51,1.4,Democrat,20
+Indiana,Net International Migration (%),2.14,1.4,Republican,11
+Iowa,Net International Migration (%),0.84,1.4,Republican,6
+Kansas,Net International Migration (%),1.41,1.4,Republican,6
+Kentucky,Net International Migration (%),0.17,1.4,Republican,8
+Louisiana,Net International Migration (%),0.65,1.4,Republican,8
+Maine,Net International Migration (%),0.64,1.4,Democrat,4
+Maryland,Net International Migration (%),2.48,1.4,Democrat,10
+Massachusetts,Net International Migration (%),4.13,1.4,Democrat,11
+Michigan,Net International Migration (%),1.32,1.4,Democrat,16
+Minnesota,Net International Migration (%),1.62,1.4,Democrat,10
+Mississippi,Net International Migration (%),0.48,1.4,Republican,6
+Missouri,Net International Migration (%),0.9,1.4,Republican,10
+Montana,Net International Migration (%),0.3,1.4,Republican,3
+Nebraska,Net International Migration (%),1.71,1.4,Republican,5
+Nevada,Net International Migration (%),-0.32,1.4,Democrat,6
+New Hampshire,Net International Migration (%),1.44,1.4,Democrat,4
+New Jersey,Net International Migration (%),2.4,1.4,Democrat,14
+New Mexico,Net International Migration (%),0.74,1.4,Democrat,5
+New York,Net International Migration (%),2.35,1.4,Democrat,29
+North Carolina,Net International Migration (%),1.36,1.4,Republican,15
+North Dakota,Net International Migration (%),1.25,1.4,Republican,3
+Ohio,Net International Migration (%),0.82,1.4,Republican,18
+Oklahoma,Net International Migration (%),1.14,1.4,Republican,7
+Oregon,Net International Migration (%),0.78,1.4,Democrat,7
+Pennsylvania,Net International Migration (%),1.53,1.4,Democrat,20
+Rhode Island,Net International Migration (%),3.44,1.4,Democrat,4
+South Carolina,Net International Migration (%),1.12,1.4,Republican,9
+South Dakota,Net International Migration (%),0.47,1.4,Republican,3
+Tennessee,Net International Migration (%),1.37,1.4,Republican,11
+Texas,Net International Migration (%),2.26,1.4,Republican,38
+Utah,Net International Migration (%),1.75,1.4,Republican,6
+Vermont,Net International Migration (%),0.61,1.4,Democrat,3
+Virginia,Net International Migration (%),1.75,1.4,Democrat,13
+Washington,Net International Migration (%),3.18,1.4,Democrat,12
+West Virginia,Net International Migration (%),-0.19,1.4,Republican,5
+Wisconsin,Net International Migration (%),0.57,1.4,Democrat,10
+Wyoming,Net International Migration (%),0.93,1.4,Republican,3
+Alabama,Covid Cases as Proportion of Population (%),1.52,2.22,Republican,9
+Alaska,Covid Cases as Proportion of Population (%),0.51,2.22,Republican,3
+Arizona,Covid Cases as Proportion of Population (%),2.41,2.22,Democrat,11
+Arkansas,Covid Cases as Proportion of Population (%),1.75,2.22,Republican,6
+California,Covid Cases as Proportion of Population (%),1.89,2.22,Democrat,55
+Colorado,Covid Cases as Proportion of Population (%),2.01,2.22,Democrat,9
+Connecticut,Covid Cases as Proportion of Population (%),6.19,2.22,Democrat,7
+Delaware,Covid Cases as Proportion of Population (%),2.79,2.22,Democrat,3
+District of Columbia,Covid Cases as Proportion of Population (%),3.69,2.22,Democrat,3
+Florida,Covid Cases as Proportion of Population (%),2.1,2.22,Republican,29
+Georgia,Covid Cases as Proportion of Population (%),2.2,2.22,Democrat,16
+Hawaii,Covid Cases as Proportion of Population (%),1.43,2.22,Democrat,4
+Idaho,Covid Cases as Proportion of Population (%),0.97,2.22,Republican,4
+Illinois,Covid Cases as Proportion of Population (%),2.33,2.22,Democrat,20
+Indiana,Covid Cases as Proportion of Population (%),2.36,2.22,Republican,11
+Iowa,Covid Cases as Proportion of Population (%),1.32,2.22,Republican,6
+Kansas,Covid Cases as Proportion of Population (%),1.17,2.22,Republican,6
+Kentucky,Covid Cases as Proportion of Population (%),1.35,2.22,Republican,8
+Louisiana,Covid Cases as Proportion of Population (%),3.15,2.22,Republican,8
+Maine,Covid Cases as Proportion of Population (%),2.12,2.22,Democrat,4
+Maryland,Covid Cases as Proportion of Population (%),2.8,2.22,Democrat,10
+Massachusetts,Covid Cases as Proportion of Population (%),5.99,2.22,Democrat,11
+Michigan,Covid Cases as Proportion of Population (%),3.74,2.22,Democrat,16
+Minnesota,Covid Cases as Proportion of Population (%),1.63,2.22,Democrat,10
+Mississippi,Covid Cases as Proportion of Population (%),2.78,2.22,Republican,6
+Missouri,Covid Cases as Proportion of Population (%),1.61,2.22,Republican,10
+Montana,Covid Cases as Proportion of Population (%),1.13,2.22,Republican,3
+Nebraska,Covid Cases as Proportion of Population (%),0.89,2.22,Republican,5
+Nevada,Covid Cases as Proportion of Population (%),1.75,2.22,Democrat,6
+New Hampshire,Covid Cases as Proportion of Population (%),4.22,2.22,Democrat,4
+New Jersey,Covid Cases as Proportion of Population (%),6.74,2.22,Democrat,14
+New Mexico,Covid Cases as Proportion of Population (%),2.12,2.22,Democrat,5
+New York,Covid Cases as Proportion of Population (%),3.74,2.22,Democrat,29
+North Carolina,Covid Cases as Proportion of Population (%),1.59,2.22,Republican,15
+North Dakota,Covid Cases as Proportion of Population (%),1.18,2.22,Republican,3
+Ohio,Covid Cases as Proportion of Population (%),2.38,2.22,Republican,18
+Oklahoma,Covid Cases as Proportion of Population (%),1.04,2.22,Republican,7
+Oregon,Covid Cases as Proportion of Population (%),1.51,2.22,Democrat,7
+Pennsylvania,Covid Cases as Proportion of Population (%),4.12,2.22,Democrat,20
+Rhode Island,Covid Cases as Proportion of Population (%),3.51,2.22,Democrat,4
+South Carolina,Covid Cases as Proportion of Population (%),2.21,2.22,Republican,9
+South Dakota,Covid Cases as Proportion of Population (%),0.91,2.22,Republican,3
+Tennessee,Covid Cases as Proportion of Population (%),1.3,2.22,Republican,11
+Texas,Covid Cases as Proportion of Population (%),1.98,2.22,Republican,38
+Utah,Covid Cases as Proportion of Population (%),0.52,2.22,Republican,6
+Vermont,Covid Cases as Proportion of Population (%),2.56,2.22,Democrat,3
+Virginia,Covid Cases as Proportion of Population (%),1.98,2.22,Democrat,13
+Washington,Covid Cases as Proportion of Population (%),2.18,2.22,Democrat,12
+West Virginia,Covid Cases as Proportion of Population (%),1.83,2.22,Republican,5
+Wisconsin,Covid Cases as Proportion of Population (%),0.86,2.22,Democrat,10
+Wyoming,Covid Cases as Proportion of Population (%),0.64,2.22,Republican,3
+Alabama,Covid Deaths as Proportion of Cases (%),4,2.84,Republican,9
+Alaska,Covid Deaths as Proportion of Cases (%),2.24,2.84,Republican,3
+Arizona,Covid Deaths as Proportion of Cases (%),3.43,2.84,Democrat,11
+Arkansas,Covid Deaths as Proportion of Cases (%),3.78,2.84,Republican,6
+California,Covid Deaths as Proportion of Cases (%),2.37,2.84,Democrat,55
+Colorado,Covid Deaths as Proportion of Cases (%),1.99,2.84,Democrat,9
+Connecticut,Covid Deaths as Proportion of Cases (%),2.1,2.84,Democrat,7
+Delaware,Covid Deaths as Proportion of Cases (%),2.62,2.84,Democrat,3
+District of Columbia,Covid Deaths as Proportion of Cases (%),2.48,2.84,Democrat,3
+Florida,Covid Deaths as Proportion of Cases (%),3.75,2.84,Republican,29
+Georgia,Covid Deaths as Proportion of Cases (%),3.43,2.84,Democrat,16
+Hawaii,Covid Deaths as Proportion of Cases (%),1.08,2.84,Democrat,4
+Idaho,Covid Deaths as Proportion of Cases (%),3.75,2.84,Republican,4
+Illinois,Covid Deaths as Proportion of Cases (%),3.44,2.84,Democrat,20
+Indiana,Covid Deaths as Proportion of Cases (%),2.79,2.84,Republican,11
+Iowa,Covid Deaths as Proportion of Cases (%),4.24,2.84,Republican,6
+Kansas,Covid Deaths as Proportion of Cases (%),3.06,2.84,Republican,6
+Kentucky,Covid Deaths as Proportion of Cases (%),2.49,2.84,Republican,8
+Louisiana,Covid Deaths as Proportion of Cases (%),4.07,2.84,Republican,8
+Maine,Covid Deaths as Proportion of Cases (%),0.53,2.84,Democrat,4
+Maryland,Covid Deaths as Proportion of Cases (%),2.46,2.84,Democrat,10
+Massachusetts,Covid Deaths as Proportion of Cases (%),2.43,2.84,Democrat,11
+Michigan,Covid Deaths as Proportion of Cases (%),2.08,2.84,Democrat,16
+Minnesota,Covid Deaths as Proportion of Cases (%),2.79,2.84,Democrat,10
+Mississippi,Covid Deaths as Proportion of Cases (%),4.11,2.84,Republican,6
+Missouri,Covid Deaths as Proportion of Cases (%),3.1,2.84,Republican,10
+Montana,Covid Deaths as Proportion of Cases (%),3.29,2.84,Republican,3
+Nebraska,Covid Deaths as Proportion of Cases (%),3.83,2.84,Republican,5
+Nevada,Covid Deaths as Proportion of Cases (%),3.34,2.84,Democrat,6
+New Hampshire,Covid Deaths as Proportion of Cases (%),0.84,2.84,Democrat,4
+New Jersey,Covid Deaths as Proportion of Cases (%),2.73,2.84,Democrat,14
+New Mexico,Covid Deaths as Proportion of Cases (%),2.35,2.84,Democrat,5
+New York,Covid Deaths as Proportion of Cases (%),1.28,2.84,Democrat,29
+North Carolina,Covid Deaths as Proportion of Cases (%),2.67,2.84,Republican,15
+North Dakota,Covid Deaths as Proportion of Cases (%),6.34,2.84,Republican,3
+Ohio,Covid Deaths as Proportion of Cases (%),1.93,2.84,Republican,18
+Oklahoma,Covid Deaths as Proportion of Cases (%),3.36,2.84,Republican,7
+Oregon,Covid Deaths as Proportion of Cases (%),1.1,2.84,Democrat,7
+Pennsylvania,Covid Deaths as Proportion of Cases (%),1.68,2.84,Democrat,20
+Rhode Island,Covid Deaths as Proportion of Cases (%),3.26,2.84,Democrat,4
+South Carolina,Covid Deaths as Proportion of Cases (%),3.5,2.84,Republican,9
+South Dakota,Covid Deaths as Proportion of Cases (%),5.52,2.84,Republican,3
+Tennessee,Covid Deaths as Proportion of Cases (%),3.9,2.84,Republican,11
+Texas,Covid Deaths as Proportion of Cases (%),3.16,2.84,Republican,38
+Utah,Covid Deaths as Proportion of Cases (%),3.72,2.84,Republican,6
+Vermont,Covid Deaths as Proportion of Cases (%),0.36,2.84,Democrat,3
+Virginia,Covid Deaths as Proportion of Cases (%),2.18,2.84,Democrat,13
+Washington,Covid Deaths as Proportion of Cases (%),1.44,2.84,Democrat,12
+West Virginia,Covid Deaths as Proportion of Cases (%),1.43,2.84,Republican,5
+Wisconsin,Covid Deaths as Proportion of Cases (%),4.31,2.84,Democrat,10
+Wyoming,Covid Deaths as Proportion of Cases (%),2.53,2.84,Republican,3
+Alabama,Proportion of Adults with atleast One Gun in Household,58,38.44,Republican,9
+Alaska,Proportion of Adults with atleast One Gun in Household,59,38.44,Republican,3
+Arizona,Proportion of Adults with atleast One Gun in Household,37,38.44,Democrat,11
+Arkansas,Proportion of Adults with atleast One Gun in Household,50,38.44,Republican,6
+California,Proportion of Adults with atleast One Gun in Household,18,38.44,Democrat,55
+Colorado,Proportion of Adults with atleast One Gun in Household,39,38.44,Democrat,9
+Connecticut,Proportion of Adults with atleast One Gun in Household,18,38.44,Democrat,7
+Delaware,Proportion of Adults with atleast One Gun in Household,30,38.44,Democrat,3
+District of Columbia,Proportion of Adults with atleast One Gun in Household,38,38.44,Democrat,3
+Florida,Proportion of Adults with atleast One Gun in Household,29,38.44,Republican,29
+Georgia,Proportion of Adults with atleast One Gun in Household,39,38.44,Democrat,16
+Hawaii,Proportion of Adults with atleast One Gun in Household,38,38.44,Democrat,4
+Idaho,Proportion of Adults with atleast One Gun in Household,53,38.44,Republican,4
+Illinois,Proportion of Adults with atleast One Gun in Household,24,38.44,Democrat,20
+Indiana,Proportion of Adults with atleast One Gun in Household,40,38.44,Republican,11
+Iowa,Proportion of Adults with atleast One Gun in Household,38,38.44,Republican,6
+Kansas,Proportion of Adults with atleast One Gun in Household,43,38.44,Republican,6
+Kentucky,Proportion of Adults with atleast One Gun in Household,49,38.44,Republican,8
+Louisiana,Proportion of Adults with atleast One Gun in Household,48,38.44,Republican,8
+Maine,Proportion of Adults with atleast One Gun in Household,45,38.44,Democrat,4
+Maryland,Proportion of Adults with atleast One Gun in Household,21,38.44,Democrat,10
+Massachusetts,Proportion of Adults with atleast One Gun in Household,10,38.44,Democrat,11
+Michigan,Proportion of Adults with atleast One Gun in Household,35,38.44,Democrat,16
+Minnesota,Proportion of Adults with atleast One Gun in Household,39,38.44,Democrat,10
+Mississippi,Proportion of Adults with atleast One Gun in Household,50,38.44,Republican,6
+Missouri,Proportion of Adults with atleast One Gun in Household,48,38.44,Republican,10
+Montana,Proportion of Adults with atleast One Gun in Household,64,38.44,Republican,3
+Nebraska,Proportion of Adults with atleast One Gun in Household,39,38.44,Republican,5
+Nevada,Proportion of Adults with atleast One Gun in Household,36,38.44,Democrat,6
+New Hampshire,Proportion of Adults with atleast One Gun in Household,39,38.44,Democrat,4
+New Jersey,Proportion of Adults with atleast One Gun in Household,8,38.44,Democrat,14
+New Mexico,Proportion of Adults with atleast One Gun in Household,39,38.44,Democrat,5
+New York,Proportion of Adults with atleast One Gun in Household,14,38.44,Democrat,29
+North Carolina,Proportion of Adults with atleast One Gun in Household,35,38.44,Republican,15
+North Dakota,Proportion of Adults with atleast One Gun in Household,55,38.44,Republican,3
+Ohio,Proportion of Adults with atleast One Gun in Household,36,38.44,Republican,18
+Oklahoma,Proportion of Adults with atleast One Gun in Household,51,38.44,Republican,7
+Oregon,Proportion of Adults with atleast One Gun in Household,44,38.44,Democrat,7
+Pennsylvania,Proportion of Adults with atleast One Gun in Household,37,38.44,Democrat,20
+Rhode Island,Proportion of Adults with atleast One Gun in Household,11,38.44,Democrat,4
+South Carolina,Proportion of Adults with atleast One Gun in Household,43,38.44,Republican,9
+South Dakota,Proportion of Adults with atleast One Gun in Household,52,38.44,Republican,3
+Tennessee,Proportion of Adults with atleast One Gun in Household,46,38.44,Republican,11
+Texas,Proportion of Adults with atleast One Gun in Household,37,38.44,Republican,38
+Utah,Proportion of Adults with atleast One Gun in Household,39,38.44,Republican,6
+Vermont,Proportion of Adults with atleast One Gun in Household,46,38.44,Democrat,3
+Virginia,Proportion of Adults with atleast One Gun in Household,37,38.44,Democrat,13
+Washington,Proportion of Adults with atleast One Gun in Household,34,38.44,Democrat,12
+West Virginia,Proportion of Adults with atleast One Gun in Household,58,38.44,Republican,5
+Wisconsin,Proportion of Adults with atleast One Gun in Household,43,38.44,Democrat,10
+Wyoming,Proportion of Adults with atleast One Gun in Household,59,38.44,Republican,3

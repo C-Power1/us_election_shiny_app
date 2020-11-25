@@ -1,0 +1,103 @@
+state,election_year,result,votes
+Alabama,2020,Republican,62.1
+Alabama,2016,Republican,62
+Alaska,2020,Republican,58
+Alaska,2016,Republican,51.3
+Arizona,2020,Democrat,49.4
+Arizona,2016,Republican,48.7
+Arkansas,2020,Republican,62.6
+Arkansas,2016,Republican,60.6
+California,2020,Democrat,64.3
+California,2016,Democrat,61.7
+Colorado,2020,Democrat,55.4
+Colorado,2016,Democrat,48.2
+Connecticut,2020,Democrat,59.2
+Connecticut,2016,Democrat,54.6
+Delaware,2020,Democrat,58.8
+Delaware,2016,Democrat,53.4
+District of Columbia,2020,Democrat,92.4
+District of Columbia,2016,Democrat,90.5
+Florida,2020,Republican,51.2
+Florida,2016,Republican,49
+Georgia,2020,Democrat,49.5
+Georgia,2016,Republican,50.8
+Hawaii,2020,Democrat,63.7
+Hawaii,2016,Democrat,61
+Idaho,2020,Republican,63.8
+Idaho,2016,Republican,59.3
+Illinois,2020,Democrat,56.8
+Illinois,2016,Democrat,55.8
+Indiana,2020,Republican,57
+Indiana,2016,Republican,56.9
+Iowa,2020,Republican,53.2
+Iowa,2016,Republican,51.2
+Kansas,2020,Republican,56.5
+Kansas,2016,Republican,56.7
+Kentucky,2020,Republican,62.1
+Kentucky,2016,Republican,62.5
+Louisiana,2020,Republican,58.5
+Louisiana,2016,Republican,58.1
+Maine,2020,Democrat,53.5
+Maine,2020,Democrat,46.3
+Maryland,2020,Democrat,64.4
+Maryland,2016,Democrat,60.3
+Massachusetts,2020,Democrat,65.2
+Massachusetts,2016,Democrat,59.1
+Michigan,2020,Democrat,50.5
+Michigan,2016,Republican,47.5
+Minnesota,2020,Democrat,52.5
+Minnesota,2016,Democrat,46.4
+Mississippi,2020,Republican,59.4
+Mississippi,2016,Republican,57.9
+Missouri,2020,Republican,56.9
+Missouri,2016,Republican,56.8
+Montana,2020,Republican,56.7
+Montana,2016,Republican,56.5
+Nebraska,2020,Republican,58.5
+Nebraska,2016,Republican,58.7
+Nevada,2020,Democrat,50.2
+Nevada,2016,Democrat,47.9
+New Hampshire,2020,Democrat,52.8
+New Hampshire,2016,Democrat,46.8
+New Jersey,2020,Democrat,57.5
+New Jersey,2016,Democrat,55.5
+New Mexico,2020,Democrat,54.2
+New Mexico,2016,Democrat,48.3
+New York,2020,Democrat,55.7
+New York,2016,Democrat,56.1
+North Carolina,2020,Republican,50
+North Carolina,2016,Republican,49.8
+North Dakota,2020,Republican,65.1
+North Dakota,2016,Republican,63
+Ohio,2020,Republican,53.3
+Ohio,2016,Republican,51.7
+Oklahoma,2020,Republican,65.4
+Oklahoma,2016,Republican,65.3
+Oregon,2020,Democrat,56.5
+Oregon,2016,Democrat,50.1
+Pennsylvania,2020,Democrat,49.7
+Pennsylvania,2016,Republican,48.6
+Rhode Island,2020,Democrat,59.6
+Rhode Island,2016,Democrat,54.4
+South Carolina,2020,Republican,55.1
+South Carolina,2016,Republican,54.9
+South Dakota,2020,Republican,61.8
+South Dakota,2020,Republican,61.5
+Tennessee,2020,Republican,60.7
+Tennessee,2016,Republican,60.7
+Texas,2020,Republican,52.1
+Texas,2016,Republican,52.2
+Utah,2020,Republican,58.3
+Utah,2016,Republican,45.5
+Vermont,2020,Democrat,64.9
+Vermont,2016,Democrat,55.7
+Virginia,2020,Democrat,54.1
+Virginia,2016,Democrat,49.8
+Washington,2020,Democrat,58.5
+Washington,2016,Democrat,52.5
+West Virginia,2020,Republican,68.7
+West Virginia,2016,Republican,68.6
+Wisconsin,2020,Democrat,49.4
+Wisconsin,2016,Republican,47.2
+Wyoming,2020,Republican,70
+Wyoming,2016,Republican,67.4

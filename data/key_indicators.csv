@@ -1,0 +1,917 @@
+state,indicator,stat,us_average
+Alabama,2016,Republican,NA
+Alaska,2016,Republican,NA
+Arizona,2016,Republican,NA
+Arkansas,2016,Republican,NA
+California,2016,Democrat,NA
+Colorado,2016,Democrat,NA
+Connecticut,2016,Democrat,NA
+Delaware,2016,Democrat,NA
+District of Columbia,2016,Democrat,NA
+Florida,2016,Republican,NA
+Georgia,2016,Republican,NA
+Hawaii,2016,Democrat,NA
+Idaho,2016,Republican,NA
+Illinois,2016,Democrat,NA
+Indiana,2016,Republican,NA
+Iowa,2016,Republican,NA
+Kansas,2016,Republican,NA
+Kentucky,2016,Republican,NA
+Louisiana,2016,Republican,NA
+Maine,2016,Democrat,NA
+Maryland,2016,Democrat,NA
+Massachusetts,2016,Democrat,NA
+Michigan,2016,Republican,NA
+Minnesota,2016,Democrat,NA
+Mississippi,2016,Republican,NA
+Missouri,2016,Republican,NA
+Montana,2016,Republican,NA
+Nebraska,2016,Republican,NA
+Nevada,2016,Democrat,NA
+New Hampshire,2016,Democrat,NA
+New Jersey,2016,Democrat,NA
+New Mexico,2016,Democrat,NA
+New York,2016,Democrat,NA
+North Carolina,2016,Republican,NA
+North Dakota,2016,Republican,NA
+Ohio,2016,Republican,NA
+Oklahoma,2016,Republican,NA
+Oregon,2016,Democrat,NA
+Pennsylvania,2016,Republican,NA
+Rhode Island,2016,Democrat,NA
+South Carolina,2016,Republican,NA
+South Dakota,2016,Republican,NA
+Tennessee,2016,Republican,NA
+Texas,2016,Republican,NA
+Utah,2016,Republican,NA
+Vermont,2016,Democrat,NA
+Virginia,2016,Democrat,NA
+Washington,2016,Democrat,NA
+West Virginia,2016,Republican,NA
+Wisconsin,2016,Republican,NA
+Wyoming,2016,Republican,NA
+United States of America,2016,NA,NA
+NA,2016,NA,NA
+Alabama,2020,Republican,NA
+Alaska,2020,Republican,NA
+Arizona,2020,Democrat,NA
+Arkansas,2020,Republican,NA
+California,2020,Democrat,NA
+Colorado,2020,Democrat,NA
+Connecticut,2020,Democrat,NA
+Delaware,2020,Democrat,NA
+District of Columbia,2020,Democrat,NA
+Florida,2020,Republican,NA
+Georgia,2020,Democrat,NA
+Hawaii,2020,Democrat,NA
+Idaho,2020,Republican,NA
+Illinois,2020,Democrat,NA
+Indiana,2020,Republican,NA
+Iowa,2020,Republican,NA
+Kansas,2020,Republican,NA
+Kentucky,2020,Republican,NA
+Louisiana,2020,Republican,NA
+Maine,2020,Democrat,NA
+Maryland,2020,Democrat,NA
+Massachusetts,2020,Democrat,NA
+Michigan,2020,Democrat,NA
+Minnesota,2020,Democrat,NA
+Mississippi,2020,Republican,NA
+Missouri,2020,Republican,NA
+Montana,2020,Republican,NA
+Nebraska,2020,Republican,NA
+Nevada,2020,Democrat,NA
+New Hampshire,2020,Democrat,NA
+New Jersey,2020,Democrat,NA
+New Mexico,2020,Democrat,NA
+New York,2020,Democrat,NA
+North Carolina,2020,Republican,NA
+North Dakota,2020,Republican,NA
+Ohio,2020,Republican,NA
+Oklahoma,2020,Republican,NA
+Oregon,2020,Democrat,NA
+Pennsylvania,2020,Democrat,NA
+Rhode Island,2020,Democrat,NA
+South Carolina,2020,Republican,NA
+South Dakota,2020,Republican,NA
+Tennessee,2020,Republican,NA
+Texas,2020,Republican,NA
+Utah,2020,Republican,NA
+Vermont,2020,Democrat,NA
+Virginia,2020,Democrat,NA
+Washington,2020,Democrat,NA
+West Virginia,2020,Republican,NA
+Wisconsin,2020,Democrat,NA
+Wyoming,2020,Republican,NA
+United States of America,2020,NA,NA
+NA,2020,NA,NA
+Alabama,adult_gun_at_home_perc,58,38.44
+Alaska,adult_gun_at_home_perc,59,38.44
+Arizona,adult_gun_at_home_perc,37,38.44
+Arkansas,adult_gun_at_home_perc,50,38.44
+California,adult_gun_at_home_perc,18,38.44
+Colorado,adult_gun_at_home_perc,39,38.44
+Connecticut,adult_gun_at_home_perc,18,38.44
+Delaware,adult_gun_at_home_perc,30,38.44
+District of Columbia,adult_gun_at_home_perc,NA,38.44
+Florida,adult_gun_at_home_perc,29,38.44
+Georgia,adult_gun_at_home_perc,39,38.44
+Hawaii,adult_gun_at_home_perc,NA,38.44
+Idaho,adult_gun_at_home_perc,53,38.44
+Illinois,adult_gun_at_home_perc,24,38.44
+Indiana,adult_gun_at_home_perc,40,38.44
+Iowa,adult_gun_at_home_perc,38,38.44
+Kansas,adult_gun_at_home_perc,43,38.44
+Kentucky,adult_gun_at_home_perc,49,38.44
+Louisiana,adult_gun_at_home_perc,48,38.44
+Maine,adult_gun_at_home_perc,45,38.44
+Maryland,adult_gun_at_home_perc,21,38.44
+Massachusetts,adult_gun_at_home_perc,10,38.44
+Michigan,adult_gun_at_home_perc,35,38.44
+Minnesota,adult_gun_at_home_perc,39,38.44
+Mississippi,adult_gun_at_home_perc,50,38.44
+Missouri,adult_gun_at_home_perc,48,38.44
+Montana,adult_gun_at_home_perc,64,38.44
+Nebraska,adult_gun_at_home_perc,39,38.44
+Nevada,adult_gun_at_home_perc,36,38.44
+New Hampshire,adult_gun_at_home_perc,39,38.44
+New Jersey,adult_gun_at_home_perc,8,38.44
+New Mexico,adult_gun_at_home_perc,39,38.44
+New York,adult_gun_at_home_perc,14,38.44
+North Carolina,adult_gun_at_home_perc,35,38.44
+North Dakota,adult_gun_at_home_perc,55,38.44
+Ohio,adult_gun_at_home_perc,36,38.44
+Oklahoma,adult_gun_at_home_perc,51,38.44
+Oregon,adult_gun_at_home_perc,44,38.44
+Pennsylvania,adult_gun_at_home_perc,37,38.44
+Rhode Island,adult_gun_at_home_perc,11,38.44
+South Carolina,adult_gun_at_home_perc,43,38.44
+South Dakota,adult_gun_at_home_perc,52,38.44
+Tennessee,adult_gun_at_home_perc,46,38.44
+Texas,adult_gun_at_home_perc,37,38.44
+Utah,adult_gun_at_home_perc,39,38.44
+Vermont,adult_gun_at_home_perc,46,38.44
+Virginia,adult_gun_at_home_perc,37,38.44
+Washington,adult_gun_at_home_perc,34,38.44
+West Virginia,adult_gun_at_home_perc,58,38.44
+Wisconsin,adult_gun_at_home_perc,43,38.44
+Wyoming,adult_gun_at_home_perc,59,38.44
+United States of America,adult_gun_at_home_perc,37.69,38.44
+NA,adult_gun_at_home_perc,NA,38.44
+us_mean,adult_gun_at_home_perc,38.44,38.44
+Alabama,adults_65plus,18,17
+Alaska,adults_65plus,13,17
+Arizona,adults_65plus,18,17
+Arkansas,adults_65plus,17,17
+California,adults_65plus,15,17
+Colorado,adults_65plus,15,17
+Connecticut,adults_65plus,18,17
+Delaware,adults_65plus,20,17
+District of Columbia,adults_65plus,13,17
+Florida,adults_65plus,21,17
+Georgia,adults_65plus,14,17
+Hawaii,adults_65plus,20,17
+Idaho,adults_65plus,16,17
+Illinois,adults_65plus,16,17
+Indiana,adults_65plus,16,17
+Iowa,adults_65plus,17,17
+Kansas,adults_65plus,16,17
+Kentucky,adults_65plus,17,17
+Louisiana,adults_65plus,16,17
+Maine,adults_65plus,21,17
+Maryland,adults_65plus,16,17
+Massachusetts,adults_65plus,17,17
+Michigan,adults_65plus,18,17
+Minnesota,adults_65plus,16,17
+Mississippi,adults_65plus,16,17
+Missouri,adults_65plus,17,17
+Montana,adults_65plus,20,17
+Nebraska,adults_65plus,16,17
+Nevada,adults_65plus,16,17
+New Hampshire,adults_65plus,19,17
+New Jersey,adults_65plus,16,17
+New Mexico,adults_65plus,18,17
+New York,adults_65plus,17,17
+North Carolina,adults_65plus,17,17
+North Dakota,adults_65plus,16,17
+Ohio,adults_65plus,17,17
+Oklahoma,adults_65plus,16,17
+Oregon,adults_65plus,18,17
+Pennsylvania,adults_65plus,19,17
+Rhode Island,adults_65plus,18,17
+South Carolina,adults_65plus,18,17
+South Dakota,adults_65plus,17,17
+Tennessee,adults_65plus,17,17
+Texas,adults_65plus,13,17
+Utah,adults_65plus,12,17
+Vermont,adults_65plus,20,17
+Virginia,adults_65plus,16,17
+Washington,adults_65plus,16,17
+West Virginia,adults_65plus,20,17
+Wisconsin,adults_65plus,18,17
+Wyoming,adults_65plus,17,17
+United States of America,adults_65plus,NA,17
+NA,adults_65plus,NA,17
+us_mean,adults_65plus,0.17,0.17
+Alabama,black,26.78,11.18
+Alaska,black,3.71,11.18
+Arizona,black,5.18,11.18
+Arkansas,black,15.68,11.18
+California,black,6.46,11.18
+Colorado,black,4.59,11.18
+Connecticut,black,12.19,11.18
+Delaware,black,23.16,11.18
+District of Columbia,black,45.98,11.18
+Florida,black,16.92,11.18
+Georgia,black,32.57,11.18
+Hawaii,black,2.19,11.18
+Idaho,black,0.91,11.18
+Illinois,black,14.62,11.18
+Indiana,black,9.95,11.18
+Iowa,black,4.06,11.18
+Kansas,black,6.13,11.18
+Kentucky,black,8.47,11.18
+Louisiana,black,32.8,11.18
+Maine,black,1.69,11.18
+Maryland,black,31.07,11.18
+Massachusetts,black,9.02,11.18
+Michigan,black,14.1,11.18
+Minnesota,black,7.01,11.18
+Mississippi,black,37.79,11.18
+Missouri,black,11.82,11.18
+Montana,black,0.6,11.18
+Nebraska,black,5.21,11.18
+Nevada,black,10.27,11.18
+New Hampshire,black,1.79,11.18
+New Jersey,black,15.06,11.18
+New Mexico,black,2.61,11.18
+New York,black,17.59,11.18
+North Carolina,black,22.22,11.18
+North Dakota,black,3.41,11.18
+Ohio,black,13.05,11.18
+Oklahoma,black,7.78,11.18
+Oregon,black,2.22,11.18
+Pennsylvania,black,12.03,11.18
+Rhode Island,black,8.51,11.18
+South Carolina,black,26.96,11.18
+South Dakota,black,2.3,11.18
+Tennessee,black,17.05,11.18
+Texas,black,12.9,11.18
+Utah,black,1.48,11.18
+Vermont,black,1.41,11.18
+Virginia,black,19.88,11.18
+Washington,black,4.36,11.18
+West Virginia,black,3.61,11.18
+Wisconsin,black,6.71,11.18
+Wyoming,black,1.29,11.18
+United States of America,black,NA,11.18
+NA,black,NA,11.18
+us_mean,black,11.18,11.18
+Alabama,college_votes_available,9,10.7
+Alaska,college_votes_available,3,10.7
+Arizona,college_votes_available,11,10.7
+Arkansas,college_votes_available,6,10.7
+California,college_votes_available,55,10.7
+Colorado,college_votes_available,9,10.7
+Connecticut,college_votes_available,7,10.7
+Delaware,college_votes_available,3,10.7
+District of Columbia,college_votes_available,3,10.7
+Florida,college_votes_available,29,10.7
+Georgia,college_votes_available,16,10.7
+Hawaii,college_votes_available,4,10.7
+Idaho,college_votes_available,4,10.7
+Illinois,college_votes_available,20,10.7
+Indiana,college_votes_available,11,10.7
+Iowa,college_votes_available,6,10.7
+Kansas,college_votes_available,6,10.7
+Kentucky,college_votes_available,8,10.7
+Louisiana,college_votes_available,8,10.7
+Maine,college_votes_available,4,10.7
+Maryland,college_votes_available,10,10.7
+Massachusetts,college_votes_available,11,10.7
+Michigan,college_votes_available,16,10.7
+Minnesota,college_votes_available,10,10.7
+Mississippi,college_votes_available,6,10.7
+Missouri,college_votes_available,10,10.7
+Montana,college_votes_available,3,10.7
+Nebraska,college_votes_available,5,10.7
+Nevada,college_votes_available,6,10.7
+New Hampshire,college_votes_available,4,10.7
+New Jersey,college_votes_available,14,10.7
+New Mexico,college_votes_available,5,10.7
+New York,college_votes_available,29,10.7
+North Carolina,college_votes_available,15,10.7
+North Dakota,college_votes_available,3,10.7
+Ohio,college_votes_available,18,10.7
+Oklahoma,college_votes_available,7,10.7
+Oregon,college_votes_available,7,10.7
+Pennsylvania,college_votes_available,20,10.7
+Rhode Island,college_votes_available,4,10.7
+South Carolina,college_votes_available,9,10.7
+South Dakota,college_votes_available,3,10.7
+Tennessee,college_votes_available,11,10.7
+Texas,college_votes_available,38,10.7
+Utah,college_votes_available,6,10.7
+Vermont,college_votes_available,3,10.7
+Virginia,college_votes_available,13,10.7
+Washington,college_votes_available,12,10.7
+West Virginia,college_votes_available,5,10.7
+Wisconsin,college_votes_available,10,10.7
+Wyoming,college_votes_available,3,10.7
+United States of America,college_votes_available,NA,10.7
+NA,college_votes_available,NA,10.7
+us_mean,college_votes_available,10.7,10.7
+Alabama,covid_cases_perc_state_popn,4,2.84
+Alaska,covid_cases_perc_state_popn,2.24,2.84
+Arizona,covid_cases_perc_state_popn,3.43,2.84
+Arkansas,covid_cases_perc_state_popn,3.78,2.84
+California,covid_cases_perc_state_popn,2.37,2.84
+Colorado,covid_cases_perc_state_popn,1.99,2.84
+Connecticut,covid_cases_perc_state_popn,2.1,2.84
+Delaware,covid_cases_perc_state_popn,2.62,2.84
+District of Columbia,covid_cases_perc_state_popn,2.48,2.84
+Florida,covid_cases_perc_state_popn,3.75,2.84
+Georgia,covid_cases_perc_state_popn,3.43,2.84
+Hawaii,covid_cases_perc_state_popn,1.08,2.84
+Idaho,covid_cases_perc_state_popn,3.75,2.84
+Illinois,covid_cases_perc_state_popn,3.44,2.84
+Indiana,covid_cases_perc_state_popn,2.79,2.84
+Iowa,covid_cases_perc_state_popn,4.24,2.84
+Kansas,covid_cases_perc_state_popn,3.06,2.84
+Kentucky,covid_cases_perc_state_popn,2.49,2.84
+Louisiana,covid_cases_perc_state_popn,4.07,2.84
+Maine,covid_cases_perc_state_popn,0.53,2.84
+Maryland,covid_cases_perc_state_popn,2.46,2.84
+Massachusetts,covid_cases_perc_state_popn,2.43,2.84
+Michigan,covid_cases_perc_state_popn,2.08,2.84
+Minnesota,covid_cases_perc_state_popn,2.79,2.84
+Mississippi,covid_cases_perc_state_popn,4.11,2.84
+Missouri,covid_cases_perc_state_popn,3.1,2.84
+Montana,covid_cases_perc_state_popn,3.29,2.84
+Nebraska,covid_cases_perc_state_popn,3.83,2.84
+Nevada,covid_cases_perc_state_popn,3.34,2.84
+New Hampshire,covid_cases_perc_state_popn,0.84,2.84
+New Jersey,covid_cases_perc_state_popn,2.73,2.84
+New Mexico,covid_cases_perc_state_popn,2.35,2.84
+New York,covid_cases_perc_state_popn,1.28,2.84
+North Carolina,covid_cases_perc_state_popn,2.67,2.84
+North Dakota,covid_cases_perc_state_popn,6.34,2.84
+Ohio,covid_cases_perc_state_popn,1.93,2.84
+Oklahoma,covid_cases_perc_state_popn,3.36,2.84
+Oregon,covid_cases_perc_state_popn,1.1,2.84
+Pennsylvania,covid_cases_perc_state_popn,1.68,2.84
+Rhode Island,covid_cases_perc_state_popn,3.26,2.84
+South Carolina,covid_cases_perc_state_popn,3.5,2.84
+South Dakota,covid_cases_perc_state_popn,5.52,2.84
+Tennessee,covid_cases_perc_state_popn,3.9,2.84
+Texas,covid_cases_perc_state_popn,3.16,2.84
+Utah,covid_cases_perc_state_popn,3.72,2.84
+Vermont,covid_cases_perc_state_popn,0.36,2.84
+Virginia,covid_cases_perc_state_popn,2.18,2.84
+Washington,covid_cases_perc_state_popn,1.44,2.84
+West Virginia,covid_cases_perc_state_popn,1.43,2.84
+Wisconsin,covid_cases_perc_state_popn,4.31,2.84
+Wyoming,covid_cases_perc_state_popn,2.53,2.84
+United States of America,covid_cases_perc_state_popn,NA,2.84
+NA,covid_cases_perc_state_popn,NA,2.84
+us_mean,covid_cases_perc_state_popn,2.84,2.84
+Alabama,health_insured,90.28,91.51
+Alaska,health_insured,87.82,91.51
+Arizona,health_insured,88.71,91.51
+Arkansas,health_insured,90.85,91.51
+California,health_insured,92.3,91.51
+Colorado,health_insured,92,91.51
+Connecticut,health_insured,94.11,91.51
+Delaware,health_insured,93.42,91.51
+District of Columbia,health_insured,96.41,91.51
+Florida,health_insured,86.84,91.51
+Georgia,health_insured,86.58,91.51
+Hawaii,health_insured,95.88,91.51
+Idaho,health_insured,89.18,91.51
+Illinois,health_insured,92.61,91.51
+Indiana,health_insured,91.28,91.51
+Iowa,health_insured,94.99,91.51
+Kansas,health_insured,90.81,91.51
+Kentucky,health_insured,93.55,91.51
+Louisiana,health_insured,91.1,91.51
+Maine,health_insured,91.94,91.51
+Maryland,health_insured,94,91.51
+Massachusetts,health_insured,97.01,91.51
+Michigan,health_insured,94.22,91.51
+Minnesota,health_insured,95.11,91.51
+Mississippi,health_insured,87.02,91.51
+Missouri,health_insured,89.97,91.51
+Montana,health_insured,91.75,91.51
+Nebraska,health_insured,91.7,91.51
+Nevada,health_insured,88.57,91.51
+New Hampshire,health_insured,93.75,91.51
+New Jersey,health_insured,92.11,91.51
+New Mexico,health_insured,90.04,91.51
+New York,health_insured,94.76,91.51
+North Carolina,health_insured,88.75,91.51
+North Dakota,health_insured,93.15,91.51
+Ohio,health_insured,93.42,91.51
+Oklahoma,health_insured,85.72,91.51
+Oregon,health_insured,92.84,91.51
+Pennsylvania,health_insured,94.23,91.51
+Rhode Island,health_insured,95.88,91.51
+South Carolina,health_insured,89.15,91.51
+South Dakota,health_insured,89.85,91.51
+Tennessee,health_insured,89.85,91.51
+Texas,health_insured,81.64,91.51
+Utah,health_insured,90.34,91.51
+Vermont,health_insured,95.47,91.51
+Virginia,health_insured,92.08,91.51
+Washington,health_insured,93.38,91.51
+West Virginia,health_insured,93.3,91.51
+Wisconsin,health_insured,94.28,91.51
+Wyoming,health_insured,87.7,91.51
+United States of America,health_insured,NA,91.51
+NA,health_insured,NA,91.51
+us_mean,health_insured,91.51,91.51
+Alabama,hispanic,4.55,12.27
+Alaska,hispanic,7.27,12.27
+Arizona,hispanic,31.74,12.27
+Arkansas,hispanic,7.84,12.27
+California,hispanic,39.42,12.27
+Colorado,hispanic,21.83,12.27
+Connecticut,hispanic,16.86,12.27
+Delaware,hispanic,9.59,12.27
+District of Columbia,hispanic,11.26,12.27
+Florida,hispanic,26.37,12.27
+Georgia,hispanic,9.88,12.27
+Hawaii,hispanic,10.66,12.27
+Idaho,hispanic,12.84,12.27
+Illinois,hispanic,17.52,12.27
+Indiana,hispanic,7.27,12.27
+Iowa,hispanic,6.29,12.27
+Kansas,hispanic,12.22,12.27
+Kentucky,hispanic,3.91,12.27
+Louisiana,hispanic,5.31,12.27
+Maine,hispanic,1.76,12.27
+Maryland,hispanic,10.65,12.27
+Massachusetts,hispanic,12.4,12.27
+Michigan,hispanic,5.29,12.27
+Minnesota,hispanic,5.59,12.27
+Mississippi,hispanic,3.36,12.27
+Missouri,hispanic,4.38,12.27
+Montana,hispanic,4.05,12.27
+Nebraska,hispanic,11.35,12.27
+Nevada,hispanic,29.24,12.27
+New Hampshire,hispanic,4.01,12.27
+New Jersey,hispanic,20.91,12.27
+New Mexico,hispanic,49.26,12.27
+New York,hispanic,19.28,12.27
+North Carolina,hispanic,9.78,12.27
+North Dakota,hispanic,4.14,12.27
+Ohio,hispanic,4.02,12.27
+Oklahoma,hispanic,11.07,12.27
+Oregon,hispanic,13.44,12.27
+Pennsylvania,hispanic,7.81,12.27
+Rhode Island,hispanic,16.3,12.27
+South Carolina,hispanic,5.96,12.27
+South Dakota,hispanic,4.22,12.27
+Tennessee,hispanic,5.73,12.27
+Texas,hispanic,39.75,12.27
+Utah,hispanic,14.41,12.27
+Vermont,hispanic,2.04,12.27
+Virginia,hispanic,9.78,12.27
+Washington,hispanic,13.02,12.27
+West Virginia,hispanic,1.74,12.27
+Wisconsin,hispanic,7.1,12.27
+Wyoming,hispanic,10.13,12.27
+United States of America,hispanic,NA,12.27
+NA,hispanic,NA,12.27
+us_mean,hispanic,12.27,12.27
+Alabama,income_change_over_year,10.5,10.01
+Alaska,income_change_over_year,7.7,10.01
+Arizona,income_change_over_year,9.8,10.01
+Arkansas,income_change_over_year,9.4,10.01
+California,income_change_over_year,9.5,10.01
+Colorado,income_change_over_year,8.1,10.01
+Connecticut,income_change_over_year,5.8,10.01
+Delaware,income_change_over_year,8.5,10.01
+District of Columbia,income_change_over_year,5.8,10.01
+Florida,income_change_over_year,7.8,10.01
+Georgia,income_change_over_year,8.4,10.01
+Hawaii,income_change_over_year,16.2,10.01
+Idaho,income_change_over_year,9.5,10.01
+Illinois,income_change_over_year,13.3,10.01
+Indiana,income_change_over_year,8.5,10.01
+Iowa,income_change_over_year,14.1,10.01
+Kansas,income_change_over_year,8.7,10.01
+Kentucky,income_change_over_year,11.5,10.01
+Louisiana,income_change_over_year,9.4,10.01
+Maine,income_change_over_year,11.6,10.01
+Maryland,income_change_over_year,7.5,10.01
+Massachusetts,income_change_over_year,17.1,10.01
+Michigan,income_change_over_year,13.1,10.01
+Minnesota,income_change_over_year,10,10.01
+Mississippi,income_change_over_year,12.2,10.01
+Missouri,income_change_over_year,9.6,10.01
+Montana,income_change_over_year,13.5,10.01
+Nebraska,income_change_over_year,3.5,10.01
+Nevada,income_change_over_year,13.6,10.01
+New Hampshire,income_change_over_year,7,10.01
+New Jersey,income_change_over_year,15.9,10.01
+New Mexico,income_change_over_year,11.8,10.01
+New York,income_change_over_year,7.6,10.01
+North Carolina,income_change_over_year,1,10.01
+North Dakota,income_change_over_year,2.2,10.01
+Ohio,income_change_over_year,10.7,10.01
+Oklahoma,income_change_over_year,11.2,10.01
+Oregon,income_change_over_year,12.4,10.01
+Pennsylvania,income_change_over_year,12,10.01
+Rhode Island,income_change_over_year,15.2,10.01
+South Carolina,income_change_over_year,8.4,10.01
+South Dakota,income_change_over_year,10.4,10.01
+Tennessee,income_change_over_year,5.4,10.01
+Texas,income_change_over_year,8.8,10.01
+Utah,income_change_over_year,9.4,10.01
+Vermont,income_change_over_year,14.4,10.01
+Virginia,income_change_over_year,7.1,10.01
+Washington,income_change_over_year,9.9,10.01
+West Virginia,income_change_over_year,15.8,10.01
+Wisconsin,income_change_over_year,8.2,10.01
+Wyoming,income_change_over_year,7.5,10.01
+United States of America,income_change_over_year,9.8,10.01
+NA,income_change_over_year,NA,10.01
+us_mean,income_change_over_year,10.01,10.01
+Alabama,net_int_migration,0.57,1.4
+Alaska,net_int_migration,0.9,1.4
+Arizona,net_int_migration,1.08,1.4
+Arkansas,net_int_migration,0.09,1.4
+California,net_int_migration,1.87,1.4
+Colorado,net_int_migration,1.84,1.4
+Connecticut,net_int_migration,3.45,1.4
+Delaware,net_int_migration,0.08,1.4
+District of Columbia,net_int_migration,3.7,1.4
+Florida,net_int_migration,4.15,1.4
+Georgia,net_int_migration,1.42,1.4
+Hawaii,net_int_migration,3.54,1.4
+Idaho,net_int_migration,0.09,1.4
+Illinois,net_int_migration,1.51,1.4
+Indiana,net_int_migration,2.14,1.4
+Iowa,net_int_migration,0.84,1.4
+Kansas,net_int_migration,1.41,1.4
+Kentucky,net_int_migration,0.17,1.4
+Louisiana,net_int_migration,0.65,1.4
+Maine,net_int_migration,0.64,1.4
+Maryland,net_int_migration,2.48,1.4
+Massachusetts,net_int_migration,4.13,1.4
+Michigan,net_int_migration,1.32,1.4
+Minnesota,net_int_migration,1.62,1.4
+Mississippi,net_int_migration,0.48,1.4
+Missouri,net_int_migration,0.9,1.4
+Montana,net_int_migration,0.3,1.4
+Nebraska,net_int_migration,1.71,1.4
+Nevada,net_int_migration,-0.32,1.4
+New Hampshire,net_int_migration,1.44,1.4
+New Jersey,net_int_migration,2.4,1.4
+New Mexico,net_int_migration,0.74,1.4
+New York,net_int_migration,2.35,1.4
+North Carolina,net_int_migration,1.36,1.4
+North Dakota,net_int_migration,1.25,1.4
+Ohio,net_int_migration,0.82,1.4
+Oklahoma,net_int_migration,1.14,1.4
+Oregon,net_int_migration,0.78,1.4
+Pennsylvania,net_int_migration,1.53,1.4
+Rhode Island,net_int_migration,3.44,1.4
+South Carolina,net_int_migration,1.12,1.4
+South Dakota,net_int_migration,0.47,1.4
+Tennessee,net_int_migration,1.37,1.4
+Texas,net_int_migration,2.26,1.4
+Utah,net_int_migration,1.75,1.4
+Vermont,net_int_migration,0.61,1.4
+Virginia,net_int_migration,1.75,1.4
+Washington,net_int_migration,3.18,1.4
+West Virginia,net_int_migration,-0.19,1.4
+Wisconsin,net_int_migration,0.57,1.4
+Wyoming,net_int_migration,0.93,1.4
+United States of America,net_int_migration,NA,1.4
+NA,net_int_migration,NA,1.4
+us_mean,net_int_migration,1.4,1.4
+Alabama,per_capita_income_2020,48641,59410.22
+Alaska,per_capita_income_2020,67507,59410.22
+Arizona,per_capita_income_2020,50403,59410.22
+Arkansas,per_capita_income_2020,48691,59410.22
+California,per_capita_income_2020,72764,59410.22
+Colorado,per_capita_income_2020,65816,59410.22
+Connecticut,per_capita_income_2020,81606,59410.22
+Delaware,per_capita_income_2020,58989,59410.22
+District of Columbia,per_capita_income_2020,88033,59410.22
+Florida,per_capita_income_2020,56412,59410.22
+Georgia,per_capita_income_2020,52184,59410.22
+Hawaii,per_capita_income_2020,65961,59410.22
+Idaho,per_capita_income_2020,50169,59410.22
+Illinois,per_capita_income_2020,66224,59410.22
+Indiana,per_capita_income_2020,52560,59410.22
+Iowa,per_capita_income_2020,58612,59410.22
+Kansas,per_capita_income_2020,57636,59410.22
+Kentucky,per_capita_income_2020,48585,59410.22
+Louisiana,per_capita_income_2020,51789,59410.22
+Maine,per_capita_income_2020,56268,59410.22
+Maryland,per_capita_income_2020,69341,59410.22
+Massachusetts,per_capita_income_2020,86779,59410.22
+Michigan,per_capita_income_2020,55484,59410.22
+Minnesota,per_capita_income_2020,64364,59410.22
+Mississippi,per_capita_income_2020,43352,59410.22
+Missouri,per_capita_income_2020,53036,59410.22
+Montana,per_capita_income_2020,56030,59410.22
+Nebraska,per_capita_income_2020,55810,59410.22
+Nevada,per_capita_income_2020,57987,59410.22
+New Hampshire,per_capita_income_2020,67815,59410.22
+New Jersey,per_capita_income_2020,81429,59410.22
+New Mexico,per_capita_income_2020,48194,59410.22
+New York,per_capita_income_2020,77014,59410.22
+North Carolina,per_capita_income_2020,48153,59410.22
+North Dakota,per_capita_income_2020,57690,59410.22
+Ohio,per_capita_income_2020,55340,59410.22
+Oklahoma,per_capita_income_2020,52469,59410.22
+Oregon,per_capita_income_2020,59512,59410.22
+Pennsylvania,per_capita_income_2020,64816,59410.22
+Rhode Island,per_capita_income_2020,64878,59410.22
+South Carolina,per_capita_income_2020,49036,59410.22
+South Dakota,per_capita_income_2020,58778,59410.22
+Tennessee,per_capita_income_2020,51232,59410.22
+Texas,per_capita_income_2020,57231,59410.22
+Utah,per_capita_income_2020,53218,59410.22
+Vermont,per_capita_income_2020,63022,59410.22
+Virginia,per_capita_income_2020,63674,59410.22
+Washington,per_capita_income_2020,70958,59410.22
+West Virginia,per_capita_income_2020,49021,59410.22
+Wisconsin,per_capita_income_2020,57492,59410.22
+Wyoming,per_capita_income_2020,66539,59410.22
+United States of America,per_capita_income_2020,61842,59410.22
+NA,per_capita_income_2020,NA,59410.22
+us_mean,per_capita_income_2020,59410.22,59410.22
+Alabama,percent_bachelors_or_higher,24.9,30.65
+Alaska,percent_bachelors_or_higher,29.2,30.65
+Arizona,percent_bachelors_or_higher,28.9,30.65
+Arkansas,percent_bachelors_or_higher,22.6,30.65
+California,percent_bachelors_or_higher,33.3,30.65
+Colorado,percent_bachelors_or_higher,40.1,30.65
+Connecticut,percent_bachelors_or_higher,38.9,30.65
+Delaware,percent_bachelors_or_higher,31.4,30.65
+District of Columbia,percent_bachelors_or_higher,NA,30.65
+Florida,percent_bachelors_or_higher,29.2,30.65
+Georgia,percent_bachelors_or_higher,30.7,30.65
+Hawaii,percent_bachelors_or_higher,32.5,30.65
+Idaho,percent_bachelors_or_higher,26.9,30.65
+Illinois,percent_bachelors_or_higher,34.1,30.65
+Indiana,percent_bachelors_or_higher,25.9,30.65
+Iowa,percent_bachelors_or_higher,28.2,30.65
+Kansas,percent_bachelors_or_higher,32.9,30.65
+Kentucky,percent_bachelors_or_higher,23.6,30.65
+Louisiana,percent_bachelors_or_higher,23.7,30.65
+Maine,percent_bachelors_or_higher,30.9,30.65
+Maryland,percent_bachelors_or_higher,39.6,30.65
+Massachusetts,percent_bachelors_or_higher,42.9,30.65
+Michigan,percent_bachelors_or_higher,28.6,30.65
+Minnesota,percent_bachelors_or_higher,35.4,30.65
+Mississippi,percent_bachelors_or_higher,21.8,30.65
+Missouri,percent_bachelors_or_higher,28.6,30.65
+Montana,percent_bachelors_or_higher,31.2,30.65
+Nebraska,percent_bachelors_or_higher,31.3,30.65
+Nevada,percent_bachelors_or_higher,24.2,30.65
+New Hampshire,percent_bachelors_or_higher,36.5,30.65
+New Jersey,percent_bachelors_or_higher,38.9,30.65
+New Mexico,percent_bachelors_or_higher,27.1,30.65
+New York,percent_bachelors_or_higher,35.9,30.65
+North Carolina,percent_bachelors_or_higher,30.5,30.65
+North Dakota,percent_bachelors_or_higher,29.5,30.65
+Ohio,percent_bachelors_or_higher,27.8,30.65
+Oklahoma,percent_bachelors_or_higher,25.2,30.65
+Oregon,percent_bachelors_or_higher,32.9,30.65
+Pennsylvania,percent_bachelors_or_higher,30.8,30.65
+Rhode Island,percent_bachelors_or_higher,33.3,30.65
+South Carolina,percent_bachelors_or_higher,27.4,30.65
+South Dakota,percent_bachelors_or_higher,28.5,30.65
+Tennessee,percent_bachelors_or_higher,26.6,30.65
+Texas,percent_bachelors_or_higher,29.3,30.65
+Utah,percent_bachelors_or_higher,33.3,30.65
+Vermont,percent_bachelors_or_higher,37.3,30.65
+Virginia,percent_bachelors_or_higher,38.2,30.65
+Washington,percent_bachelors_or_higher,35.3,30.65
+West Virginia,percent_bachelors_or_higher,20.3,30.65
+Wisconsin,percent_bachelors_or_higher,29.5,30.65
+Wyoming,percent_bachelors_or_higher,26.9,30.65
+United States of America,percent_bachelors_or_higher,NA,30.65
+NA,percent_bachelors_or_higher,NA,30.65
+us_mean,percent_bachelors_or_higher,30.65,30.65
+Alabama,percent_high_school_or_higher,85.8,89.2
+Alaska,percent_high_school_or_higher,92.7,89.2
+Arizona,percent_high_school_or_higher,86.8,89.2
+Arkansas,percent_high_school_or_higher,86.2,89.2
+California,percent_high_school_or_higher,82.9,89.2
+Colorado,percent_high_school_or_higher,91.4,89.2
+Connecticut,percent_high_school_or_higher,90.5,89.2
+Delaware,percent_high_school_or_higher,89.8,89.2
+District of Columbia,percent_high_school_or_higher,NA,89.2
+Florida,percent_high_school_or_higher,88,89.2
+Georgia,percent_high_school_or_higher,86.7,89.2
+Hawaii,percent_high_school_or_higher,91.8,89.2
+Idaho,percent_high_school_or_higher,90.6,89.2
+Illinois,percent_high_school_or_higher,88.9,89.2
+Indiana,percent_high_school_or_higher,88.6,89.2
+Iowa,percent_high_school_or_higher,92,89.2
+Kansas,percent_high_school_or_higher,90.7,89.2
+Kentucky,percent_high_school_or_higher,85.7,89.2
+Louisiana,percent_high_school_or_higher,84.8,89.2
+Maine,percent_high_school_or_higher,92.3,89.2
+Maryland,percent_high_school_or_higher,90,89.2
+Massachusetts,percent_high_school_or_higher,90.4,89.2
+Michigan,percent_high_school_or_higher,90.5,89.2
+Minnesota,percent_high_school_or_higher,93,89.2
+Mississippi,percent_high_school_or_higher,83.9,89.2
+Missouri,percent_high_school_or_higher,89.6,89.2
+Montana,percent_high_school_or_higher,93.2,89.2
+Nebraska,percent_high_school_or_higher,91.1,89.2
+Nevada,percent_high_school_or_higher,86.3,89.2
+New Hampshire,percent_high_school_or_higher,92.9,89.2
+New Jersey,percent_high_school_or_higher,89.5,89.2
+New Mexico,percent_high_school_or_higher,85.3,89.2
+New York,percent_high_school_or_higher,86.5,89.2
+North Carolina,percent_high_school_or_higher,87.4,89.2
+North Dakota,percent_high_school_or_higher,92.5,89.2
+Ohio,percent_high_school_or_higher,90.1,89.2
+Oklahoma,percent_high_school_or_higher,87.8,89.2
+Oregon,percent_high_school_or_higher,90.4,89.2
+Pennsylvania,percent_high_school_or_higher,90.2,89.2
+Rhode Island,percent_high_school_or_higher,88,89.2
+South Carolina,percent_high_school_or_higher,87.1,89.2
+South Dakota,percent_high_school_or_higher,91.7,89.2
+Tennessee,percent_high_school_or_higher,87,89.2
+Texas,percent_high_school_or_higher,83.2,89.2
+Utah,percent_high_school_or_higher,92,89.2
+Vermont,percent_high_school_or_higher,92.6,89.2
+Virginia,percent_high_school_or_higher,89.3,89.2
+Washington,percent_high_school_or_higher,91.1,89.2
+West Virginia,percent_high_school_or_higher,86.5,89.2
+Wisconsin,percent_high_school_or_higher,91.9,89.2
+Wyoming,percent_high_school_or_higher,92.9,89.2
+United States of America,percent_high_school_or_higher,NA,89.2
+NA,percent_high_school_or_higher,NA,89.2
+us_mean,percent_high_school_or_higher,89.2,89.2
+Alabama,states_deaths_prop_cases,1.52,2.22
+Alaska,states_deaths_prop_cases,0.51,2.22
+Arizona,states_deaths_prop_cases,2.41,2.22
+Arkansas,states_deaths_prop_cases,1.75,2.22
+California,states_deaths_prop_cases,1.89,2.22
+Colorado,states_deaths_prop_cases,2.01,2.22
+Connecticut,states_deaths_prop_cases,6.19,2.22
+Delaware,states_deaths_prop_cases,2.79,2.22
+District of Columbia,states_deaths_prop_cases,3.69,2.22
+Florida,states_deaths_prop_cases,2.1,2.22
+Georgia,states_deaths_prop_cases,2.2,2.22
+Hawaii,states_deaths_prop_cases,1.43,2.22
+Idaho,states_deaths_prop_cases,0.97,2.22
+Illinois,states_deaths_prop_cases,2.33,2.22
+Indiana,states_deaths_prop_cases,2.36,2.22
+Iowa,states_deaths_prop_cases,1.32,2.22
+Kansas,states_deaths_prop_cases,1.17,2.22
+Kentucky,states_deaths_prop_cases,1.35,2.22
+Louisiana,states_deaths_prop_cases,3.15,2.22
+Maine,states_deaths_prop_cases,2.12,2.22
+Maryland,states_deaths_prop_cases,2.8,2.22
+Massachusetts,states_deaths_prop_cases,5.99,2.22
+Michigan,states_deaths_prop_cases,3.74,2.22
+Minnesota,states_deaths_prop_cases,1.63,2.22
+Mississippi,states_deaths_prop_cases,2.78,2.22
+Missouri,states_deaths_prop_cases,1.61,2.22
+Montana,states_deaths_prop_cases,1.13,2.22
+Nebraska,states_deaths_prop_cases,0.89,2.22
+Nevada,states_deaths_prop_cases,1.75,2.22
+New Hampshire,states_deaths_prop_cases,4.22,2.22
+New Jersey,states_deaths_prop_cases,6.74,2.22
+New Mexico,states_deaths_prop_cases,2.12,2.22
+New York,states_deaths_prop_cases,3.74,2.22
+North Carolina,states_deaths_prop_cases,1.59,2.22
+North Dakota,states_deaths_prop_cases,1.18,2.22
+Ohio,states_deaths_prop_cases,2.38,2.22
+Oklahoma,states_deaths_prop_cases,1.04,2.22
+Oregon,states_deaths_prop_cases,1.51,2.22
+Pennsylvania,states_deaths_prop_cases,4.12,2.22
+Rhode Island,states_deaths_prop_cases,3.51,2.22
+South Carolina,states_deaths_prop_cases,2.21,2.22
+South Dakota,states_deaths_prop_cases,0.91,2.22
+Tennessee,states_deaths_prop_cases,1.3,2.22
+Texas,states_deaths_prop_cases,1.98,2.22
+Utah,states_deaths_prop_cases,0.52,2.22
+Vermont,states_deaths_prop_cases,2.56,2.22
+Virginia,states_deaths_prop_cases,1.98,2.22
+Washington,states_deaths_prop_cases,2.18,2.22
+West Virginia,states_deaths_prop_cases,1.83,2.22
+Wisconsin,states_deaths_prop_cases,0.86,2.22
+Wyoming,states_deaths_prop_cases,0.64,2.22
+United States of America,states_deaths_prop_cases,NA,2.22
+NA,states_deaths_prop_cases,NA,2.22
+us_mean,states_deaths_prop_cases,2.22,2.22
+Alabama,unemployment_010920,6.6,7.18
+Alaska,unemployment_010920,7.2,7.18
+Arizona,unemployment_010920,6.7,7.18
+Arkansas,unemployment_010920,7.3,7.18
+California,unemployment_010920,11,7.18
+Colorado,unemployment_010920,6.4,7.18
+Connecticut,unemployment_010920,7.8,7.18
+Delaware,unemployment_010920,8.2,7.18
+District of Columbia,unemployment_010920,8.7,7.18
+Florida,unemployment_010920,7.6,7.18
+Georgia,unemployment_010920,6.4,7.18
+Hawaii,unemployment_010920,15.1,7.18
+Idaho,unemployment_010920,6.1,7.18
+Illinois,unemployment_010920,10.2,7.18
+Indiana,unemployment_010920,6.2,7.18
+Iowa,unemployment_010920,4.7,7.18
+Kansas,unemployment_010920,5.9,7.18
+Kentucky,unemployment_010920,5.6,7.18
+Louisiana,unemployment_010920,8.1,7.18
+Maine,unemployment_010920,6.1,7.18
+Maryland,unemployment_010920,7.2,7.18
+Massachusetts,unemployment_010920,9.6,7.18
+Michigan,unemployment_010920,8.5,7.18
+Minnesota,unemployment_010920,6,7.18
+Mississippi,unemployment_010920,7.1,7.18
+Missouri,unemployment_010920,4.9,7.18
+Montana,unemployment_010920,5.3,7.18
+Nebraska,unemployment_010920,3.5,7.18
+Nevada,unemployment_010920,12.6,7.18
+New Hampshire,unemployment_010920,6,7.18
+New Jersey,unemployment_010920,6.7,7.18
+New Mexico,unemployment_010920,9.4,7.18
+New York,unemployment_010920,9.7,7.18
+North Carolina,unemployment_010920,7.3,7.18
+North Dakota,unemployment_010920,4.4,7.18
+Ohio,unemployment_010920,8.4,7.18
+Oklahoma,unemployment_010920,5.3,7.18
+Oregon,unemployment_010920,8,7.18
+Pennsylvania,unemployment_010920,8.1,7.18
+Rhode Island,unemployment_010920,10.5,7.18
+South Carolina,unemployment_010920,5.1,7.18
+South Dakota,unemployment_010920,4.1,7.18
+Tennessee,unemployment_010920,6.3,7.18
+Texas,unemployment_010920,8.3,7.18
+Utah,unemployment_010920,5,7.18
+Vermont,unemployment_010920,4.2,7.18
+Virginia,unemployment_010920,6.2,7.18
+Washington,unemployment_010920,7.8,7.18
+West Virginia,unemployment_010920,8.6,7.18
+Wisconsin,unemployment_010920,5.4,7.18
+Wyoming,unemployment_010920,6.1,7.18
+United States of America,unemployment_010920,7.21,7.18
+NA,unemployment_010920,NA,7.18
+us_mean,unemployment_010920,7.18,7.18
+Alabama,unemployment_change_over_year,144.4,108.38
+Alaska,unemployment_change_over_year,16.1,108.38
+Arizona,unemployment_change_over_year,45.7,108.38
+Arkansas,unemployment_change_over_year,102.8,108.38
+California,unemployment_change_over_year,182.1,108.38
+Colorado,unemployment_change_over_year,146.2,108.38
+Connecticut,unemployment_change_over_year,110.8,108.38
+Delaware,unemployment_change_over_year,110.3,108.38
+District of Columbia,unemployment_change_over_year,64.2,108.38
+Florida,unemployment_change_over_year,162.1,108.38
+Georgia,unemployment_change_over_year,100,108.38
+Hawaii,unemployment_change_over_year,459.3,108.38
+Idaho,unemployment_change_over_year,110.3,108.38
+Illinois,unemployment_change_over_year,175.7,108.38
+Indiana,unemployment_change_over_year,93.8,108.38
+Iowa,unemployment_change_over_year,67.9,108.38
+Kansas,unemployment_change_over_year,90.3,108.38
+Kentucky,unemployment_change_over_year,30.2,108.38
+Louisiana,unemployment_change_over_year,58.8,108.38
+Maine,unemployment_change_over_year,110.3,108.38
+Maryland,unemployment_change_over_year,105.7,108.38
+Massachusetts,unemployment_change_over_year,242.9,108.38
+Michigan,unemployment_change_over_year,117.9,108.38
+Minnesota,unemployment_change_over_year,87.5,108.38
+Mississippi,unemployment_change_over_year,26.8,108.38
+Missouri,unemployment_change_over_year,48.5,108.38
+Montana,unemployment_change_over_year,51.4,108.38
+Nebraska,unemployment_change_over_year,16.7,108.38
+Nevada,unemployment_change_over_year,240.5,108.38
+New Hampshire,unemployment_change_over_year,130.8,108.38
+New Jersey,unemployment_change_over_year,86.1,108.38
+New Mexico,unemployment_change_over_year,95.8,108.38
+New York,unemployment_change_over_year,148.7,108.38
+North Carolina,unemployment_change_over_year,97.3,108.38
+North Dakota,unemployment_change_over_year,83.3,108.38
+Ohio,unemployment_change_over_year,104.9,108.38
+Oklahoma,unemployment_change_over_year,60.6,108.38
+Oregon,unemployment_change_over_year,128.6,108.38
+Pennsylvania,unemployment_change_over_year,76.1,108.38
+Rhode Island,unemployment_change_over_year,200,108.38
+South Carolina,unemployment_change_over_year,112.5,108.38
+South Dakota,unemployment_change_over_year,20.6,108.38
+Tennessee,unemployment_change_over_year,90.9,108.38
+Texas,unemployment_change_over_year,137.1,108.38
+Utah,unemployment_change_over_year,100,108.38
+Vermont,unemployment_change_over_year,75,108.38
+Virginia,unemployment_change_over_year,129.6,108.38
+Washington,unemployment_change_over_year,90.2,108.38
+West Virginia,unemployment_change_over_year,72,108.38
+Wisconsin,unemployment_change_over_year,58.8,108.38
+Wyoming,unemployment_change_over_year,64.9,108.38
+United States of America,unemployment_change_over_year,101.7,108.38
+NA,unemployment_change_over_year,NA,108.38
+us_mean,unemployment_change_over_year,108.38,108.38
